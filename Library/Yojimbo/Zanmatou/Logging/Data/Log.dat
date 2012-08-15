@@ -1,0 +1,10 @@
+O:26:"PhpStack\Base\Types\String":1:{s:9:"__default";s:60:"2012-08-12 03:05:09.14201 0 3 Logger is created successfully";}
+O:26:"PhpStack\Base\Types\String":1:{s:9:"__default";s:52:"2012-08-12 03:05:09.14209 0 3 Creating ModuleCatalog";}
+O:26:"PhpStack\Base\Types\String":1:{s:9:"__default";s:55:"2012-08-12 03:05:09.14318 0 3 Configuring ModuleCatalog";}
+O:26:"PhpStack\Base\Types\String":1:{s:9:"__default";s:48:"2012-08-12 03:05:09.14423 0 3 Creating Container";}
+O:26:"PhpStack\Base\Types\String":1:{s:9:"__default";s:51:"2012-08-12 03:05:09.14619 0 3 Configuring Container";}
+O:26:"PhpStack\Base\Types\String":1:{s:9:"__default";s:50:"2012-08-12 03:05:09.14820 0 3 Initializing Modules";}
+O:26:"PhpStack\Base\Types\String":1:{s:9:"__default";s:68:"2012-08-12 03:05:09.15105 0 3 Module ModuleA is created successfully";}
+O:26:"PhpStack\Base\Types\String":1:{s:9:"__default";s:68:"2012-08-12 03:05:09.21137 0 3 Module ModuleB is created successfully";}
+O:26:"PhpStack\Base\Types\String":1:{s:9:"__default";s:44:"2012-08-12 03:05:09.21148 0 3 Creating Shell";}
+O:26:"PhpStack\Base\Types\String":1:{s:9:"__default";s:48:"2012-08-12 03:05:09.21473 0 3 Initializing Shell";}

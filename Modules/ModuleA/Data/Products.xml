@@ -1,0 +1,2484 @@
+<TellusSearchResult>
+    <metaData requestReceived="2012-08-06T13:57:45.485" responseSent="2012-08-06T13:57:45.657" lang="no" state="real-time">
+        <copyRight>
+            <technology>
+                <name>Powered By tellUs Search ©</name>
+                <description>tellUs Search © is provided by tellUs IT AS.</description>
+                <web>www.tellus.no</web>
+            </technology>
+        </copyRight>
+        <paging total="118" from="1" to="15" randomKey="1224556918"></paging>
+    </metaData>
+    <productList lang="no">
+        <product id="657783" dbownerId="28" customerId="793" productId="2" lang="no" created="2010-09-05T00:49:01" createdBy="TS" modified="2010-09-26T21:30:33" modifiedBy="TS">
+            <name>Mjuklia</name>
+            <address>
+                <street>Berkåk</street>
+                <postalArea postalCode="7391">Rennebu</postalArea>
+                <municipality id="1635">Rennebu</municipality>
+                <county id="16">Sør-Trøndelag</county>
+                <country id="NO">Norge</country>
+            </address>
+            <contactInformation>
+                <web>www.mjuklia.no</web>
+            </contactInformation>
+            <geoLocation type="WGS 84">
+                <longitude>10.002622604</longitude>
+                <latitude>62.833325576</latitude>
+            </geoLocation>
+            <div />
+            <categoryList>
+                <category id="36">
+                    <name>Aktiviteter</name>
+                    <categorySubType1List>
+                        <categorySubType1 id="933">
+                            <name>Bad</name>
+                            <categorySubType2List>
+                                <categorySubType2 id="1141">
+                                    <name>Friluftsbad</name>
+                                </categorySubType2>
+                            </categorySubType2List>
+                        </categorySubType1>
+                        <categorySubType1 id="632">
+                            <name>Barn/familie</name>
+                        </categorySubType1>
+                        <categorySubType1 id="1473">
+                            <name>Bondegård/Fritidsgård</name>
+                        </categorySubType1>
+                        <categorySubType1 id="131">
+                            <name>Fiske</name>
+                        </categorySubType1>
+                        <categorySubType1 id="875">
+                            <name>Hest</name>
+                            <categorySubType2List>
+                                <categorySubType2 id="1286">
+                                    <name>Hest og vogn</name>
+                                </categorySubType2>
+                                <categorySubType2 id="1022">
+                                    <name>Ridning</name>
+                                </categorySubType2>
+                            </categorySubType2List>
+                        </categorySubType1>
+                        <categorySubType1 id="640">
+                            <name>Kanefart</name>
+                        </categorySubType1>
+                        <categorySubType1 id="1127">
+                            <name>Kano/Kajakk</name>
+                        </categorySubType1>
+                    </categorySubType1List>
+                </category>
+            </categoryList>
+            <mediaChannelList>
+                <mediaChannel id="1">
+                    <name>Internett</name>
+                </mediaChannel>
+                <mediaChannel id="8">
+                    <name>Standard oppføring</name>
+                </mediaChannel>
+            </mediaChannelList>
+            <textList>
+                <text type="HOVED" lang="no" mime="text/plain" modified="2010-09-26T21:30:33" modifiedBy="TS">Mjuklia har en rekke aktivitetstilbud som du kan benytte deg av når du kommer på besøk til oss. Noen av aktivitetene må avtales med oss på forhånd.
+
+                    Vi har:
+                    ·          Fjøs med kaniner, minigriser, geiter
+                    ·          Hest og vogn
+                    ·          Kanoer
+                    ·          Bademuligheter
+                    ·          Fiskemuligheter
+                    ·          Luftgeværskyting
+                    ·          Skyting med pil og bue
+                    ·          Klatretårn på 12 meter
+                    ·          Samhandlingsløype
+                    ·          Gode turmuligheter
+                    ·          Bordtennis
+                    ·          Airhockey
+                    ·          Fotballspill
+                    ·          Gode ski løyper 4 meter fra husveggen
+                    ·        
+ 
+
+                </text>
+                <text type="HOVED" lang="en" mime="text/plain" modified="2010-09-05T00:54:19" modifiedBy="TS">Mjuklia has a number of activities that you can take advantage of when you come to visit us.
+
+                    Some of the activities to be arranged with us beforehand.
+
+                    We have:
+ 
+
+                    · Barn with rabbits, mini pigs, goats
+                    · Horse and carriage
+                    · Canoes
+                    · Bathing
+                    · Fishing
+                    · Air rifle shooting
+                    · Shooting with bow and arrow
+                    · Climbing tower of 12 meters
+                    · Interaction Track
+                    · Good hiking
+                    · Table Tennis
+                    · Airhockey
+                    · Football
+                    · Good ski slopes 4 meters from the house wall
+                </text>
+            </textList>
+            <mediaList>
+                <media id="1391" dbownerId="28" mime="image/jpeg" sequence="1">
+                    <name>Mjuklia</name>
+                    <thumbnail URI="http://media.tellus.no/images/?d=28&amp;p=1391&amp;t=3" />
+                    <small URI="http://media.tellus.no/images/?d=28&amp;p=1391&amp;t=2" />
+                    <large width="132" height="97" URI="http://media.tellus.no/images/?d=28&amp;p=1391&amp;t=1" />
+                </media>
+            </mediaList>
+            <customTypeList>
+                <customType id="71" dbownerId="28">Opplevelser</customType>
+                <customType id="73" dbownerId="28">Aktiv ferie</customType>
+                <customType id="81" dbownerId="28">Vinter</customType>
+                <customType id="100" dbownerId="28">Fiske</customType>
+                <customType id="102" dbownerId="28">Familieaktiviteter</customType>
+                <customType id="119" dbownerId="28">NY WEB 2012</customType>
+                <customType id="127" dbownerId="28">Aktiviteter</customType>
+                <customType id="140" dbownerId="28">Sport og friluftsliv</customType>
+                <customType id="142" dbownerId="28">Fiske</customType>
+                <customType id="143" dbownerId="28">Barn og familie</customType>
+                <customType id="144" dbownerId="28">Vinteraktiviteter</customType>
+            </customTypeList>
+            <customAreaList>
+                <customArea id="3" dbownerId="28">Oppdalsregionen</customArea>
+            </customAreaList>
+        </product>
+        <product id="644697" dbownerId="389" customerId="86" productId="1" lang="no" created="2012-04-02T14:42:46" createdBy="Odd Petter Haugseth" modified="2012-04-02T15:09:57" modifiedBy="Odd Petter Haugseth">
+            <name>Klatrefeltet på Hell</name>
+            <address>
+                <street>Tønsåsen</street>
+                <postalArea postalCode="7517">Hell</postalArea>
+                <municipality id="1714">Stjørdal</municipality>
+                <county id="17">Nord-Trøndelag</county>
+                <country id="NO">Norge</country>
+            </address>
+            <contactInformation />
+            <geoLocation type="WGS 84">
+                <longitude>10.951911399</longitude>
+                <latitude>63.439989599</latitude>
+            </geoLocation>
+            <div />
+            <contactList>
+                <contact id="1">
+                    <type id="4">Kontakt</type>
+                    <name>Stjørdal Turistkontor</name>
+                    <telephone>74 83 45 80</telephone>
+                    <email>info@visitstjordal.no</email>
+                </contact>
+            </contactList>
+            <categoryList>
+                <category id="36">
+                    <name>Aktiviteter</name>
+                    <categorySubType1List>
+                        <categorySubType1 id="690">
+                            <name>Sport</name>
+                            <categorySubType2List>
+                                <categorySubType2 id="443">
+                                    <name>Klatring</name>
+                                </categorySubType2>
+                            </categorySubType2List>
+                        </categorySubType1>
+                    </categorySubType1List>
+                </category>
+            </categoryList>
+            <mediaChannelList>
+                <mediaChannel id="1">
+                    <name>Internett</name>
+                </mediaChannel>
+                <mediaChannel id="8">
+                    <name>Standard oppføring</name>
+                </mediaChannel>
+            </mediaChannelList>
+            <textList>
+                <text type="HOVED" lang="no" mime="text/plain" modified="2012-04-02T14:47:03" modifiedBy="Odd Petter Haugseth">Et av Nord Europas beste sportsklatrecrag for hard og bratt klatring ligger på Hell i Stjørdal kommune. Feltet ligger på nordsiden av Tønsåsen, og består av en ganske stor og bratt fjellvegg. Dette ble oppdaget av, og "eies" av klatremiljøet i Trondheim.
+
+                    Beskrivelse:
+                    Rundt 80 ruter er boltet. Fra 5- til 9+, men med overvekt av ruter fra grad 7 og oppover. Stort sett korte ruter (rundt 15m +/-). 
+
+                    Et meget populært crag, og det kan fort bli folksomt særlig på rutene opp mot 7er tallet. Er man sterk kan man dra på Hell selv når det regner. 
+                    Klatringen er preget av mye lommer og små rissformasjoner i konglomerat-fjell. Har man først kommet inn i Hell-klatre-stilen, så er dette stedet å perse.. 
+
+                    På det meste kan det være 50 personer på klatrefeltet derson det er godt vær. 
+
+                    Sesong:
+                    Fra april til sent på høsten. 
+
+                    Parkering:
+                    P for bil og buss i grustaket ved Trudvang forsamlingshus og Lånke stadion. Følg skilt inn til klatrefeltet, ca. 3 minutter å gå.
+
+
+
+                    Innendørs klatring:
+                    I den nye storhallen på Stjørdal (åpnet 2012) er det et eget stort innendørs rom for klatring. www.stjordalshallen.no
+
+                    Stjørdal Klatreklubb ble stiftet høsten 2010, og vi ser med spenning på utvikling av denne sporten....og klubben! 
+                    www.stjordalklatreklubb.no
+                </text>
+                <text type="HOVED_HTML" lang="no" mime="text/html" modified="2012-04-02T14:47:03" modifiedBy="Odd Petter Haugseth">&lt;p&gt;Et av Nord Europas beste sportsklatrecrag for hard og bratt klatring ligger på Hell i Stjørdal kommune. Feltet ligger på nordsiden av Tønsåsen, og består av en ganske stor og bratt fjellvegg. Dette ble oppdaget av, og "eies" av klatremiljøet i Trondheim.&lt;br /&gt;&lt;br /&gt;Beskrivelse:&lt;br /&gt;Rundt 80 ruter er boltet. Fra 5- til 9+, men med overvekt av ruter fra grad 7 og oppover. Stort sett korte ruter (rundt 15m +/-). &lt;br /&gt;&lt;br /&gt;Et meget populært crag, og det kan fort bli folksomt særlig på rutene opp mot 7er tallet. Er man sterk kan man dra på Hell selv når det regner. &lt;br /&gt;Klatringen er preget av mye lommer og små rissformasjoner i konglomerat-fjell. Har man først kommet inn i Hell-klatre-stilen, så er dette stedet å perse.. &lt;br /&gt;&lt;br /&gt;På det meste kan det være 50 personer på klatrefeltet derson det er godt vær. &lt;br /&gt;&lt;br /&gt;Sesong:&lt;br /&gt;Fra april til sent på høsten. &lt;br /&gt;&lt;br /&gt;Parkering:&lt;br /&gt;P for bil og buss i grustaket ved Trudvang forsamlingshus og Lånke stadion. Følg skilt inn til klatrefeltet, ca. 3 minutter å gå.&lt;br /&gt;&lt;br /&gt;Noen kontakter:&lt;br /&gt;Trondheim Klatreklubb - Arve Stavø.&lt;br /&gt;NTNUI Tindegruppe - Steinar Kragset.&lt;br /&gt;&lt;br /&gt;&lt;strong&gt;Innendørs klatring&lt;/strong&gt;:&lt;br /&gt;I den nye storhallen på Stjørdal (åpnet 2012) er det et eget stort innendørs rom for klatring. &lt;a href="http://www.stjordalshallen.no"&gt;www.stjordalshallen.no&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;Stjørdal Klatreklubb ble stiftet høsten 2010, og vi ser med spenning på utvikling av denne sporten....og klubben! &lt;br /&gt;&lt;a href="http://www.stjordalklatreklubb.no" target="_self"&gt;www.stjordalklatreklubb.no&lt;/a&gt;&lt;/p&gt;</text>
+                <text type="HOVED" lang="en" mime="text/plain" modified="2012-04-02T14:48:39" modifiedBy="Odd Petter Haugseth">One of Nortern Europe's best sport climbing crags for hard and steep climbing is located in Hell.
+
+                    Around 80 routes, ranging from 5- to 9+, though most routes are 7 and above and relatively short (15m+/-).
+
+                    The crag at Tønsåsen is a very popular place for climbers.
+
+                    Season:
+                    From April to late autumn.
+
+                    Parking:
+                    Cars and buses may park at Trudvang and Lånke Stadium.
+
+                    Useful websites:
+                    www.stjordalklatreklubb.no
+                </text>
+                <text type="HOVED_HTML" lang="en" mime="text/html" modified="2012-04-02T14:48:39" modifiedBy="Odd Petter Haugseth">&lt;p&gt;One of Nortern Europe's best sport climbing crags for hard and steep climbing is located in Hell.&lt;br /&gt;&lt;br /&gt;Around 80 routes, ranging from 5- to 9+, though most routes are 7 and above and relatively short (15m+/-).&lt;br /&gt;&lt;br /&gt;The crag at Tønsåsen is a very popular place for climbers.&lt;br /&gt;&lt;br /&gt;Season:&lt;br /&gt;From April to late autumn.&lt;br /&gt;&lt;br /&gt;Parking:&lt;br /&gt;Cars and buses may park at Trudvang and Lånke Stadium.&lt;br /&gt;&lt;br /&gt;Useful websites:&lt;br /&gt;&lt;a href="http://www.stjordalklatreklubb.no" target="_self"&gt;www.stjordalklatreklubb.no&lt;/a&gt;&lt;/p&gt;</text>
+            </textList>
+            <mediaList>
+                <media id="705" dbownerId="389" mime="image/jpg" sequence="5">
+                    <name>Klatrefeltet på Hell</name>
+                    <thumbnail width="172" height="259" URI="http://media.tellus.no/images/?d=389&amp;p=705&amp;t=3" />
+                    <small width="350" height="527" URI="http://media.tellus.no/images/?d=389&amp;p=705&amp;t=2" />
+                    <large width="512" height="772" URI="http://media.tellus.no/images/?d=389&amp;p=705&amp;t=1" />
+                </media>
+                <media id="704" dbownerId="389" mime="image/jpg" sequence="4">
+                    <name>Klatrefeltet på Hell</name>
+                    <copyright>
+                        <name>Odd Petter Haugseth</name>
+                    </copyright>
+                    <thumbnail width="172" height="258" URI="http://media.tellus.no/images/?d=389&amp;p=704&amp;t=3" />
+                    <small width="350" height="525" URI="http://media.tellus.no/images/?d=389&amp;p=704&amp;t=2" />
+                    <large width="800" height="1200" URI="http://media.tellus.no/images/?d=389&amp;p=704&amp;t=1" />
+                </media>
+                <media id="703" dbownerId="389" mime="image/jpg" sequence="3">
+                    <name>Klatrefeltet på Hell</name>
+                    <thumbnail width="172" height="259" URI="http://media.tellus.no/images/?d=389&amp;p=703&amp;t=3" />
+                    <small width="350" height="527" URI="http://media.tellus.no/images/?d=389&amp;p=703&amp;t=2" />
+                    <large width="512" height="772" URI="http://media.tellus.no/images/?d=389&amp;p=703&amp;t=1" />
+                </media>
+                <media id="702" dbownerId="389" mime="image/jpg" sequence="2">
+                    <name>Klatrefeltet på Hell</name>
+                    <thumbnail width="172" height="114" URI="http://media.tellus.no/images/?d=389&amp;p=702&amp;t=3" />
+                    <small width="350" height="232" URI="http://media.tellus.no/images/?d=389&amp;p=702&amp;t=2" />
+                    <large width="772" height="512" URI="http://media.tellus.no/images/?d=389&amp;p=702&amp;t=1" />
+                </media>
+                <media id="701" dbownerId="389" mime="image/jpg" sequence="1">
+                    <name>Klatrefeltet på Hell - Tønsåsen</name>
+                    <copyright>
+                        <name>Odd Petter Haugseth</name>
+                    </copyright>
+                    <thumbnail width="172" height="258" URI="http://media.tellus.no/images/?d=389&amp;p=701&amp;t=3" />
+                    <small width="350" height="525" URI="http://media.tellus.no/images/?d=389&amp;p=701&amp;t=2" />
+                    <large width="800" height="1200" URI="http://media.tellus.no/images/?d=389&amp;p=701&amp;t=1" />
+                </media>
+            </mediaList>
+            <transportList>
+                <transport id="1">
+                    <type id="10">Bil</type>
+                    <description>Ta av fra Fv 26 like ved Lånke kirke. Skilt stadion</description>
+                </transport>
+            </transportList>
+            <distanceList>
+                <distance id="1">
+                    <name>Trondheim lufthavn</name>
+                    <time>5 min</time>
+                    <physical>4</physical>
+                </distance>
+                <distance id="2">
+                    <name>Trondheim sentrum</name>
+                    <time>30</time>
+                    <physical>34</physical>
+                </distance>
+            </distanceList>
+        </product>
+        <product id="42241" dbownerId="95" customerId="282" productId="1" lang="no" created="2005-12-07T11:27:09" createdBy="JH" modified="2010-02-25T12:38:40" modifiedBy="VD">
+            <name>Skippertunet</name>
+            <address>
+                <postalArea postalCode="7168">Lysøysundet</postalArea>
+                <municipality id="1627">Bjugn</municipality>
+                <county id="16">Sør-Trøndelag</county>
+                <country id="NO">Norge</country>
+            </address>
+            <contactInformation>
+                <web>www.skippertunet.no</web>
+            </contactInformation>
+            <geoLocation type="WGS 84">
+                <longitude>9.8660612106</longitude>
+                <latitude>63.885746002</latitude>
+            </geoLocation>
+            <div />
+            <contactList>
+                <contact id="1">
+                    <type id="16">Mobiltelefon</type>
+                    <telephone>92 84 45 55</telephone>
+                    <email>firmapost@explora.no</email>
+                </contact>
+            </contactList>
+            <categoryList>
+                <category id="36">
+                    <name>Aktiviteter</name>
+                    <categorySubType1List>
+                        <categorySubType1 id="1124">
+                            <name>Båt</name>
+                        </categorySubType1>
+                        <categorySubType1 id="131">
+                            <name>Fiske</name>
+                            <categorySubType2List>
+                                <categorySubType2 id="703">
+                                    <name>Havfiske</name>
+                                </categorySubType2>
+                            </categorySubType2List>
+                        </categorySubType1>
+                        <categorySubType1 id="137">
+                            <name>Jakt</name>
+                        </categorySubType1>
+                        <categorySubType1 id="1059">
+                            <name>Kurs</name>
+                        </categorySubType1>
+                        <categorySubType1 id="953">
+                            <name>Opplevelse</name>
+                        </categorySubType1>
+                    </categorySubType1List>
+                </category>
+            </categoryList>
+            <mediaChannelList>
+                <mediaChannel id="35">
+                    <name>Bygdeturisme</name>
+                </mediaChannel>
+                <mediaChannel id="37">
+                    <name>IKKE BRUK DENNE, TEST TID</name>
+                </mediaChannel>
+                <mediaChannel id="1">
+                    <name>Internett</name>
+                </mediaChannel>
+                <mediaChannel id="2">
+                    <name>Internett lokal</name>
+                </mediaChannel>
+                <mediaChannel id="5">
+                    <name>Lokal</name>
+                </mediaChannel>
+                <mediaChannel id="34">
+                    <name>Minimumsoppføring</name>
+                </mediaChannel>
+                <mediaChannel id="36">
+                    <name>NAF</name>
+                </mediaChannel>
+            </mediaChannelList>
+            <advertisementList>
+                <advertisement id="1">
+                    <type id="2">Full prod. present.</type>
+                </advertisement>
+            </advertisementList>
+        </product>
+        <product id="24803" dbownerId="44" customerId="441" productId="1" lang="no" created="2006-01-22T11:22:58" createdBy="KK" modified="2012-02-10T14:41:12" modifiedBy="Ståle Berre">
+            <name>Rørosrein</name>
+            <address>
+                <street>Hagaveien 17</street>
+                <postalArea postalCode="7374">Røros</postalArea>
+                <municipality id="1640">Røros</municipality>
+                <county id="16">Sør-Trøndelag</county>
+                <country id="NO">Norge</country>
+            </address>
+            <contactInformation>
+                <web>www.rorosrein.no</web>
+            </contactInformation>
+            <geoLocation type="WGS 84">
+                <longitude>11.394925117</longitude>
+                <latitude>62.570713819</latitude>
+            </geoLocation>
+            <div />
+            <contactList>
+                <contact id="1">
+                    <type id="4">Kontakt</type>
+                    <name>Eva Nordfjell og Magne Haugom</name>
+                    <telephone>+47 72 41 10 06</telephone>
+                    <mobile>+47 979 74 966</mobile>
+                    <email>post@rorosrein.no</email>
+                </contact>
+            </contactList>
+            <categoryList>
+                <category id="36">
+                    <name>Aktiviteter</name>
+                    <categorySubType1List>
+                        <categorySubType1 id="440">
+                            <name>Bedriftsbesøk</name>
+                        </categorySubType1>
+                        <categorySubType1 id="1200">
+                            <name>For bussgrupper</name>
+                        </categorySubType1>
+                        <categorySubType1 id="1206">
+                            <name>Gruppeaktiviteter</name>
+                        </categorySubType1>
+                        <categorySubType1 id="854">
+                            <name>Julebord</name>
+                        </categorySubType1>
+                        <categorySubType1 id="934">
+                            <name>Konferanse</name>
+                        </categorySubType1>
+                        <categorySubType1 id="1034">
+                            <name>Kultur</name>
+                        </categorySubType1>
+                        <categorySubType1 id="953">
+                            <name>Opplevelse</name>
+                        </categorySubType1>
+                        <categorySubType1 id="521">
+                            <name>Reinkjøring</name>
+                        </categorySubType1>
+                        <categorySubType1 id="525">
+                            <name>Samisk opplevelse</name>
+                            <categorySubType2List>
+                                <categorySubType2 id="2364">
+                                    <name>Vinter</name>
+                                </categorySubType2>
+                            </categorySubType2List>
+                        </categorySubType1>
+                        <categorySubType1 id="1074">
+                            <name>Vinteraktivitet</name>
+                        </categorySubType1>
+                    </categorySubType1List>
+                </category>
+            </categoryList>
+            <mediaChannelList>
+                <mediaChannel id="1">
+                    <name>Internett</name>
+                </mediaChannel>
+                <mediaChannel id="2">
+                    <name>Internett lokal</name>
+                </mediaChannel>
+                <mediaChannel id="5">
+                    <name>Lokal</name>
+                </mediaChannel>
+                <mediaChannel id="74">
+                    <name>Meetings  kun etter avtale</name>
+                </mediaChannel>
+                <mediaChannel id="32">
+                    <name>Regional</name>
+                </mediaChannel>
+                <mediaChannel id="8">
+                    <name>Standard oppføring</name>
+                </mediaChannel>
+            </mediaChannelList>
+            <textList>
+                <text type="HOVED" lang="no" mime="text/plain" modified="2012-02-06T11:31:31" modifiedBy="Gunhild Reinskou">Vi er en sørsamefamilie som til daglig har vårt virke som reindriftsutøvere i Rørosområdet.
+
+                    I gangavstand til røros sentrum tilbyr vi bla leie- og kjøreturer med rein, mating, lassokasting eller du kan være med på temming av rein. I gamma kan du nyte varm drikke eller tradisjonell samisk mat.
+
+                    Reinsdyr
+                    Vi har noen av våre dyr i gjerdet og har satt opp en gåetie (gamme). Vi ønsker å formidle litt av den sørsamiske kulturen ved å fortelle om samene i dette området før og nå. Vi forteller om reindrifta, hvordan det er å drive med reindrift i dag og hvordan det var før. Dere vil få et innblikk i det sørsamiske språket, sløyd, ulike mattradisjoner og kulturen for øvrig.
+
+                    Det er mulig å bestille kjøretur med slede. Det er en fantastisk opplevelse å sitte bak på en slede som blir dratt av en rein. Det kan gå temmelig raskt, noen ganger har man nok bare med å holde seg fast på sleden, mens snøen spruter langs sledemeiene. Det er slett ikke alle dyr som har slik fart, og det å sitte bak en rein som ”lunter” i veg, gir rom for beundring og respekt for dette flotte dyret. Det er plass til to personer på sleden, en person i tilegg til en av oss.
+
+                    Det er ofte nødvendig å fange dyra med lasso. Dette får dere trene på, først på horn som står rolig, og senere på dyr som springer.
+
+                    Sesong for reinsdyraktiviteter: desember-april
+
+                    Gamma - gåetie
+                    Gamma kan leies ut for en kveld eller dag, passer godt til små arrangement. Mat kan varmes over ildstedet enten i kjeler, eller i langpanne. Det er også muligheter for å grille.
+
+                    Kapasitet 50 personer.
+
+                    Vi tilrettelegger opplegg for deg og din gruppe. Det kan bestå i alle disse aktivitetene eller kombineres med f.eks kanefart eller Bergstadvandring.
+                </text>
+                <text type="HOVED_HTML" lang="no" mime="text/html" modified="2012-02-06T11:31:31" modifiedBy="Gunhild Reinskou">&lt;p&gt;Vi er en sørsamefamilie som til daglig har vårt virke som reindriftsutøvere i Rørosområdet.&lt;br /&gt;&lt;br /&gt;I gangavstand til røros sentrum tilbyr vi bla leie- og kjøreturer med rein, mating, lassokasting eller du kan være med på temming av rein. I gamma kan du nyte varm drikke eller tradisjonell samisk mat.&lt;br /&gt;&lt;br /&gt;&lt;strong&gt;Reinsdyr&lt;/strong&gt;&lt;br /&gt;Vi har noen av våre dyr i gjerdet og har satt opp en gåetie (gamme). Vi ønsker å formidle litt av den sørsamiske kulturen ved å fortelle om samene i dette området før og nå. Vi forteller om reindrifta, hvordan det er å drive med reindrift i dag og hvordan det var før. Dere vil få et innblikk i det sørsamiske språket, sløyd, ulike mattradisjoner og kulturen for øvrig.&lt;br /&gt;&lt;br /&gt;Det er mulig å bestille kjøretur med slede. Det er en fantastisk opplevelse å sitte bak på en slede som blir dratt av en rein. Det kan gå temmelig raskt, noen ganger har man nok bare med å holde seg fast på sleden, mens snøen spruter langs sledemeiene. Det er slett ikke alle dyr som har slik fart, og det å sitte bak en rein som ”lunter” i veg, gir rom for beundring og respekt for dette flotte dyret. Det er plass til to personer på sleden, en person i tilegg til en av oss.&lt;br /&gt;&lt;br /&gt;Det er ofte nødvendig å fange dyra med lasso. Dette får dere trene på, først på horn som står rolig, og senere på dyr som springer.&lt;br /&gt;&lt;br /&gt;Sesong for reinsdyraktiviteter: desember-april&lt;br /&gt;&lt;br /&gt;&lt;strong&gt;Gamma - gåetie&lt;/strong&gt;&lt;br /&gt;Gamma kan leies ut for en kveld eller dag, passer godt til små arrangement. Mat kan varmes over ildstedet enten i kjeler, eller i langpanne. Det er også muligheter for å grille.&lt;br /&gt;&lt;br /&gt;Kapasitet 50 personer.&lt;br /&gt;&lt;br /&gt;&lt;strong&gt;Vi tilrettelegger opplegg for deg og din gruppe. Det kan bestå i alle disse aktivitetene eller kombineres med f.eks kanefart eller Bergstadvandring.&lt;/strong&gt;&lt;/p&gt;</text>
+                <text type="HOVED" lang="en" mime="text/plain" modified="2009-04-28T15:03:03" modifiedBy="GR">At walking distance from the centre of Røros, we offer reindeer sled tours, as well as leading, feeding and lassoing the reindeer. You can even join in a reindeer taming session. Afterwards, relax in a lavvo with a hot drink or traditional Sami food. Season: December-April.</text>
+            </textList>
+            <facilityCategoryList>
+                <facilityCategory id="5">
+                    <name>Aktiviteter</name>
+                    <facilityList>
+                        <facility id="499">
+                            <name>barneaktiviteter</name>
+                            <comment />
+                        </facility>
+                        <facility id="850">
+                            <name>foredrag</name>
+                            <comment />
+                        </facility>
+                        <facility id="657">
+                            <name>konserter</name>
+                            <comment />
+                        </facility>
+                        <facility id="1347">
+                            <name>sledeturer</name>
+                            <comment />
+                        </facility>
+                    </facilityList>
+                </facilityCategory>
+                <facilityCategory id="85">
+                    <name>Dyr/fiske slag</name>
+                    <facilityList>
+                        <facility id="1570">
+                            <name>reinsdyr</name>
+                            <comment />
+                        </facility>
+                    </facilityList>
+                </facilityCategory>
+                <facilityCategory id="1">
+                    <name>Generelle fasiliteter</name>
+                    <facilityList>
+                        <facility id="1181">
+                            <name>barnevennlig</name>
+                            <comment />
+                        </facility>
+                    </facilityList>
+                </facilityCategory>
+                <facilityCategory id="77">
+                    <name>Mat og drikke</name>
+                    <facilityList>
+                        <facility id="1331">
+                            <name>julebord</name>
+                            <comment />
+                        </facility>
+                        <facility id="1577">
+                            <name>lokale retter</name>
+                            <comment />
+                        </facility>
+                        <facility id="1576">
+                            <name>tradisjonsmat</name>
+                            <comment />
+                        </facility>
+                    </facilityList>
+                </facilityCategory>
+                <facilityCategory id="11">
+                    <name>Skjenkerettigheter</name>
+                    <facilityList>
+                        <facility id="69">
+                            <name>alle rettigheter</name>
+                            <comment />
+                        </facility>
+                    </facilityList>
+                </facilityCategory>
+                <facilityCategory id="13">
+                    <name>Språk</name>
+                    <facilityList>
+                        <facility id="85">
+                            <name>engelsk</name>
+                            <comment />
+                        </facility>
+                    </facilityList>
+                </facilityCategory>
+            </facilityCategoryList>
+            <mediaList>
+                <media id="314" dbownerId="44" mime="image/jpeg" sequence="4">
+                    <name>Gamme - Rørosrein</name>
+                    <copyright>
+                        <name>Røros Reiseliv</name>
+                    </copyright>
+                    <thumbnail width="172" height="115" URI="http://media.tellus.no/images/?d=44&amp;p=314&amp;t=3" />
+                    <small width="350" height="234" URI="http://media.tellus.no/images/?d=44&amp;p=314&amp;t=2" />
+                    <large width="425" height="285" URI="http://media.tellus.no/images/?d=44&amp;p=314&amp;t=1" />
+                </media>
+                <media id="315" dbownerId="44" mime="image/jpeg" sequence="3">
+                    <name>Tur med ren - Rørosrein</name>
+                    <copyright>
+                        <name>Røros Reiseliv</name>
+                    </copyright>
+                    <thumbnail width="172" height="115" URI="http://media.tellus.no/images/?d=44&amp;p=315&amp;t=3" />
+                    <small width="350" height="234" URI="http://media.tellus.no/images/?d=44&amp;p=315&amp;t=2" />
+                    <large width="425" height="285" URI="http://media.tellus.no/images/?d=44&amp;p=315&amp;t=1" />
+                </media>
+                <media id="313" dbownerId="44" mime="image/jpeg" sequence="2">
+                    <name>Eva med rein</name>
+                    <copyright>
+                        <name>Røros Reiseliv</name>
+                    </copyright>
+                    <thumbnail width="172" height="114" URI="http://media.tellus.no/images/?d=44&amp;p=313&amp;t=3" />
+                    <small width="350" height="233" URI="http://media.tellus.no/images/?d=44&amp;p=313&amp;t=2" />
+                    <large width="425" height="283" URI="http://media.tellus.no/images/?d=44&amp;p=313&amp;t=1" />
+                </media>
+                <media id="316" dbownerId="44" mime="image/jpeg" sequence="1">
+                    <name>Rørosrein</name>
+                    <copyright>
+                        <name>Røros Reiseliv</name>
+                    </copyright>
+                    <thumbnail width="172" height="115" URI="http://media.tellus.no/images/?d=44&amp;p=316&amp;t=3" />
+                    <small width="350" height="234" URI="http://media.tellus.no/images/?d=44&amp;p=316&amp;t=2" />
+                    <large width="425" height="285" URI="http://media.tellus.no/images/?d=44&amp;p=316&amp;t=1" />
+                </media>
+            </mediaList>
+            <scheduleList>
+                <schedule id="1">
+                    <type id="2">Åpningstid</type>
+                    <daysOfWeek />
+                    <location />
+                </schedule>
+            </scheduleList>
+            <distanceList>
+                <distance id="1">
+                    <name>Røros sentrum</name>
+                    <time>10 min</time>
+                    <physical>2 km</physical>
+                </distance>
+            </distanceList>
+            <advertisementList>
+                <advertisement id="1">
+                    <type id="6">Full prod. present. med link 1</type>
+                    <URI>www.rorosrein.no</URI>
+                </advertisement>
+            </advertisementList>
+            <customTypeList>
+                <customType id="16" dbownerId="44">www.rorosinfo.com NY</customType>
+                <customType id="21" dbownerId="44">GJØRE</customType>
+                <customType id="40" dbownerId="44">VINTEROPPLEVELSER</customType>
+                <customType id="41" dbownerId="44">AKTIVITETER</customType>
+                <customType id="69" dbownerId="44">Andre aktiviteter</customType>
+                <customType id="77" dbownerId="44">Andre vinteropplevelser</customType>
+                <customType id="81" dbownerId="44">Sør-samiske opplevelser</customType>
+                <customType id="124" dbownerId="44">Røros APP</customType>
+                <customType id="134" dbownerId="44">Gjøre</customType>
+                <customType id="161" dbownerId="44">Aktiviteter</customType>
+                <customType id="197" dbownerId="44">Sør-samiske oppl.</customType>
+            </customTypeList>
+            <customAreaList>
+                <customArea id="1" dbownerId="44">Rørosregionen</customArea>
+            </customAreaList>
+        </product>
+        <product id="17290" dbownerId="27" customerId="59" productId="20" lang="no" created="2005-12-16T11:53:03" createdBy="MB" modified="2012-04-10T13:18:02" modifiedBy="Nina Wikan">
+            <name>Bymarka</name>
+            <address>
+                <postalArea postalCode="7020">Trondheim</postalArea>
+                <municipality id="1601">Trondheim</municipality>
+                <county id="16">Sør-Trøndelag</county>
+                <country id="NO">Norge</country>
+            </address>
+            <contactInformation />
+            <div />
+            <contactList>
+                <contact id="1">
+                    <type id="4">Kontakt</type>
+                    <email>touristinfo@visit-trondheim.com</email>
+                </contact>
+            </contactList>
+            <categoryList>
+                <category id="36">
+                    <name>Aktiviteter</name>
+                    <categorySubType1List>
+                        <categorySubType1 id="1089">
+                            <name>Natur</name>
+                        </categorySubType1>
+                        <categorySubType1 id="965">
+                            <name>Turstier</name>
+                        </categorySubType1>
+                        <categorySubType1 id="917">
+                            <name>Vandring</name>
+                        </categorySubType1>
+                    </categorySubType1List>
+                </category>
+            </categoryList>
+            <mediaChannelList>
+                <mediaChannel id="37">
+                    <name>IKKE BRUK DENNE, TEST TID</name>
+                </mediaChannel>
+                <mediaChannel id="1">
+                    <name>Internett</name>
+                </mediaChannel>
+                <mediaChannel id="2">
+                    <name>Internett lokal</name>
+                </mediaChannel>
+                <mediaChannel id="36">
+                    <name>NAF</name>
+                </mediaChannel>
+            </mediaChannelList>
+            <textList>
+                <text type="HOVED" lang="no" mime="text/plain" modified="2011-10-21T15:06:35" modifiedBy="Nina Wikan">Sommer som vinter ligger den der og lokker med sin vakre og varierte natur. Og Bymarka er en kvalitet som trondheimsfolk vet å verdsette. Turgåere tilbys et variert og godt utbygd turløypenett:
+
+                    - 60 km stier med grusdekke
+
+                    - 80 km vanlige stier 
+
+                    - 250 km skiløyper som prepareres 
+
+                    - 6 lysløyper fra 2 - 10 km
+                </text>
+                <text type="HOVED_HTML" lang="no" mime="text/html" modified="2011-10-21T15:06:35" modifiedBy="Nina Wikan">&lt;p&gt;Sommer som vinter ligger den der og lokker med sin vakre og varierte natur. Og Bymarka er en kvalitet som trondheimsfolk vet å verdsette. Turgåere tilbys et variert og godt utbygd turløypenett:&lt;br /&gt;&lt;br /&gt;- 60 km stier med grusdekke&lt;br /&gt;&lt;br /&gt;- 80 km vanlige stier &lt;br /&gt;&lt;br /&gt;- 250 km skiløyper som prepareres &lt;br /&gt;&lt;br /&gt;- 6 lysløyper fra 2 - 10 km&lt;/p&gt;</text>
+                <text type="HOVED" lang="en" mime="text/plain" modified="2011-10-21T15:06:47" modifiedBy="Nina Wikan">In summer as well as winter, Bymarka entices us with the beauty and variety of its countryside. The people of Trondheim make the most of it. There is a varied and well developed network of trails:
+
+
+                    - 60 km (nearly 40 miles) of gravel paths 
+
+                    - 80 km (50 miles) of ordinary paths with no regular maintenance 
+
+                    - 250 km (150 miles) of ski tracks that are prepared, including
+                    - 250 km (150 miles) of ski tracks that are prepared, including
+                    - 6 floodlit tracks from 2 - 10 km (1.2 - 6 miles)
+                </text>
+                <text type="HOVED_HTML" lang="en" mime="text/html" modified="2011-10-21T15:06:47" modifiedBy="Nina Wikan">&lt;p&gt;In summer as well as winter, Bymarka entices us with the beauty and variety of its countryside. The people of Trondheim make the most of it. There is a varied and well developed network of trails:&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;- 60 km (nearly 40 miles) of gravel paths &lt;br /&gt;&lt;br /&gt;- 80 km (50 miles) of ordinary paths with no regular maintenance &lt;br /&gt;&lt;br /&gt;- 250 km (150 miles) of ski tracks that are prepared, including&lt;br /&gt;- 250 km (150 miles) of ski tracks that are prepared, including&lt;br /&gt;- 6 floodlit tracks from 2 - 10 km (1.2 - 6 miles)&lt;/p&gt;</text>
+            </textList>
+            <mediaList>
+                <media id="2157" dbownerId="27" mime="image/jpeg" sequence="5">
+                    <name>Bymarka</name>
+                    <copyright>
+                        <name>Jørn Adde, Trondheim Kommune</name>
+                    </copyright>
+                    <thumbnail width="172" height="114" URI="http://media.tellus.no/images/?d=27&amp;p=2157&amp;t=3" />
+                    <small width="350" height="233" URI="http://media.tellus.no/images/?d=27&amp;p=2157&amp;t=2" />
+                    <large width="800" height="534" URI="http://media.tellus.no/images/?d=27&amp;p=2157&amp;t=1" />
+                </media>
+                <media id="117" dbownerId="27" mime="image/jpeg" sequence="4">
+                    <name>Lian</name>
+                    <thumbnail width="172" height="257" URI="http://media.tellus.no/images/?d=27&amp;p=117&amp;t=3" />
+                    <small width="350" height="524" URI="http://media.tellus.no/images/?d=27&amp;p=117&amp;t=2" />
+                    <large width="350" height="524" URI="http://media.tellus.no/images/?d=27&amp;p=117&amp;t=1" />
+                </media>
+                <media id="2071" dbownerId="27" mime="image/jpeg" sequence="3">
+                    <name>Vandring</name>
+                    <copyright>
+                        <name>Innovasjon Norge/Visit Trondheim</name>
+                    </copyright>
+                    <thumbnail width="172" height="114" URI="http://media.tellus.no/images/?d=27&amp;p=2071&amp;t=3" />
+                    <small width="350" height="232" URI="http://media.tellus.no/images/?d=27&amp;p=2071&amp;t=2" />
+                    <large width="800" height="531" URI="http://media.tellus.no/images/?d=27&amp;p=2071&amp;t=1" />
+                </media>
+                <media id="2072" dbownerId="27" mime="image/jpeg" sequence="2">
+                    <name>På sykkel</name>
+                    <copyright>
+                        <name>Innovasjon Norge/Visit Trondheim</name>
+                    </copyright>
+                    <thumbnail width="172" height="257" URI="http://media.tellus.no/images/?d=27&amp;p=2072&amp;t=3" />
+                    <small width="350" height="523" URI="http://media.tellus.no/images/?d=27&amp;p=2072&amp;t=2" />
+                    <large width="800" height="1195" URI="http://media.tellus.no/images/?d=27&amp;p=2072&amp;t=1" />
+                </media>
+                <media id="2070" dbownerId="27" mime="image/jpeg" sequence="1">
+                    <name>Bymarka</name>
+                    <copyright>
+                        <name>Visit Trondheim</name>
+                    </copyright>
+                    <thumbnail width="172" height="114" URI="http://media.tellus.no/images/?d=27&amp;p=2070&amp;t=3" />
+                    <small width="350" height="233" URI="http://media.tellus.no/images/?d=27&amp;p=2070&amp;t=2" />
+                    <large width="800" height="533" URI="http://media.tellus.no/images/?d=27&amp;p=2070&amp;t=1" />
+                </media>
+            </mediaList>
+            <advertisementList>
+                <advertisement id="1">
+                    <type id="6">Full prod. present. med link 1</type>
+                </advertisement>
+            </advertisementList>
+            <customTypeList>
+                <customType id="1" dbownerId="27">WEB</customType>
+                <customType id="3" dbownerId="27">Se og gjøre</customType>
+                <customType id="30" dbownerId="27">Aktiviteter</customType>
+            </customTypeList>
+        </product>
+        <product id="627214" dbownerId="27" customerId="501" productId="1" lang="no" created="2012-02-14T14:06:02" createdBy="Nina Wikan" modified="2012-05-03T11:37:09" modifiedBy="Nina Wikan">
+            <name>Mid-Norway Adventure AS</name>
+            <address>
+                <street>,</street>
+                <postalArea postalCode="7530">Meråker</postalArea>
+                <municipality id="1711">Meråker</municipality>
+                <county id="17">Nord-Trøndelag</county>
+                <country id="NO">Norge</country>
+            </address>
+            <contactInformation>
+                <web>www.midnorwayadventure.no/</web>
+            </contactInformation>
+            <div />
+            <contactList>
+                <contact id="1">
+                    <type id="4">Kontakt</type>
+                    <mobile>40002388</mobile>
+                    <email>eirik@midnorwayadventure.com</email>
+                </contact>
+            </contactList>
+            <categoryList>
+                <category id="36">
+                    <name>Aktiviteter</name>
+                    <categorySubType1List>
+                        <categorySubType1 id="395">
+                            <name>Aktivitetsselskaper</name>
+                        </categorySubType1>
+                        <categorySubType1 id="417">
+                            <name>Båtturer</name>
+                            <categorySubType2List>
+                                <categorySubType2 id="2741">
+                                    <name>Båtturer</name>
+                                </categorySubType2>
+                                <categorySubType2 id="943">
+                                    <name>Flåteturer</name>
+                                </categorySubType2>
+                            </categorySubType2List>
+                        </categorySubType1>
+                        <categorySubType1 id="131">
+                            <name>Fiske</name>
+                        </categorySubType1>
+                        <categorySubType1 id="913">
+                            <name>Fjelltur</name>
+                        </categorySubType1>
+                        <categorySubType1 id="707">
+                            <name>Fjordtur</name>
+                        </categorySubType1>
+                        <categorySubType1 id="1206">
+                            <name>Gruppeaktiviteter</name>
+                        </categorySubType1>
+                        <categorySubType1 id="137">
+                            <name>Jakt</name>
+                        </categorySubType1>
+                        <categorySubType1 id="953">
+                            <name>Opplevelse</name>
+                        </categorySubType1>
+                        <categorySubType1 id="2768">
+                            <name>Padling</name>
+                        </categorySubType1>
+                        <categorySubType1 id="1466">
+                            <name>Rafting</name>
+                        </categorySubType1>
+                        <categorySubType1 id="757">
+                            <name>Sightseeing</name>
+                            <categorySubType2List>
+                                <categorySubType2 id="2661">
+                                    <name>Geocaching</name>
+                                </categorySubType2>
+                            </categorySubType2List>
+                        </categorySubType1>
+                        <categorySubType1 id="2736">
+                            <name>Skogtur</name>
+                        </categorySubType1>
+                        <categorySubType1 id="827">
+                            <name>Villmarksopplevelser</name>
+                        </categorySubType1>
+                    </categorySubType1List>
+                </category>
+            </categoryList>
+            <mediaChannelList>
+                <mediaChannel id="8">
+                    <name>Standard oppføring</name>
+                </mediaChannel>
+            </mediaChannelList>
+            <textList>
+                <text type="HOVED" lang="no" mime="text/plain" modified="2012-02-16T13:24:03" modifiedBy="Monica Selnes">Aktiviteter og opplevelsesferie i Midt-Norge
+                    Pakke, booke og selge reiselivsprodukt på det regionale, nasjonale og internasjonale markedet.
+                    Selskapet skal først og fremst markedsføre og selge produkter for eierne, men kan også tilby tjenester for andre bedrifter, kommuner og organisasjoner.
+
+
+                     
+                </text>
+                <text type="HOVED_HTML" lang="no" mime="text/html" modified="2012-02-16T13:24:03" modifiedBy="Monica Selnes">&lt;p&gt;Aktiviteter og opplevelsesferie i Midt-Norge&lt;br /&gt;Pakke, booke og selge reiselivsprodukt på det regionale, nasjonale og internasjonale markedet.&lt;br /&gt;Selskapet skal først og fremst markedsføre og selge produkter for eierne, men kan også tilby tjenester for andre bedrifter, kommuner og organisasjoner.&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt; &lt;/p&gt;
+                </text>
+                <text type="HOVED" lang="en" mime="text/plain" modified="2012-02-16T13:29:18" modifiedBy="Nina Wikan">Experience the beauty of untouched nature, meet with friendly people, be active in cultural adventures... in a breathtaking part of Norwegian coastline!
+
+                    To visit Mid-Norway is to experience "A Norway in miniature". "Norway at its most real" is an expression which is used about this particular part of Trøndelags coast and its not without reason.
+                </text>
+                <text type="HOVED_HTML" lang="en" mime="text/plain" modified="2012-02-16T13:29:18" modifiedBy="Nina Wikan">&lt;p&gt;Experience the beauty of untouched nature, meet with friendly people, be active in cultural adventures... in a breathtaking part of Norwegian coastline!&lt;/p&gt;
+&lt;p&gt;To visit Mid-Norway is to experience "A Norway in miniature". "Norway at its most real" is an expression which is used about this particular part of Trøndelags coast and its not without reason.&lt;/p&gt;
+                </text>
+            </textList>
+            <mediaList>
+                <media id="2439" dbownerId="27" mime="image/jpg" sequence="2">
+                    <name>Mid Norway Adventure</name>
+                    <copyright>
+                        <name>180.no</name>
+                    </copyright>
+                    <thumbnail width="172" height="114" URI="http://media.tellus.no/images/?d=27&amp;p=2439&amp;t=3" />
+                    <small width="275" height="183" URI="http://media.tellus.no/images/?d=27&amp;p=2439&amp;t=2" />
+                    <large width="275" height="183" URI="http://media.tellus.no/images/?d=27&amp;p=2439&amp;t=1" />
+                </media>
+                <media id="2438" dbownerId="27" mime="image/jpg" sequence="1">
+                    <name>Mid Norway adventure fisk</name>
+                    <copyright>
+                        <name>visitnorway.no</name>
+                    </copyright>
+                    <thumbnail width="172" height="120" URI="http://media.tellus.no/images/?d=27&amp;p=2438&amp;t=3" />
+                    <small width="269" height="188" URI="http://media.tellus.no/images/?d=27&amp;p=2438&amp;t=2" />
+                    <large width="269" height="188" URI="http://media.tellus.no/images/?d=27&amp;p=2438&amp;t=1" />
+                </media>
+            </mediaList>
+            <advertisementList>
+                <advertisement id="1">
+                    <type id="15">Kun Listing</type>
+                </advertisement>
+            </advertisementList>
+            <customTypeList>
+                <customType id="1" dbownerId="27">WEB</customType>
+                <customType id="3" dbownerId="27">Se og gjøre</customType>
+                <customType id="30" dbownerId="27">Aktiviteter</customType>
+            </customTypeList>
+        </product>
+        <product id="448474" dbownerId="389" customerId="25" productId="6" lang="no" created="2010-09-15T15:00:34" createdBy="OH" modified="2012-03-22T15:37:07" modifiedBy="Odd Petter Haugseth">
+            <name>Øverlands Minde</name>
+            <address>
+                <street>Stokkanvegen</street>
+                <postalArea postalCode="7500">Stjørdal</postalArea>
+                <municipality id="1714">Stjørdal</municipality>
+                <county id="17">Nord-Trøndelag</county>
+                <country id="NO">Norge</country>
+            </address>
+            <contactInformation>
+                <web>www.stjordal.kommune.no</web>
+            </contactInformation>
+            <geoLocation type="WGS 84">
+                <longitude>10.929229259</longitude>
+                <latitude>63.473355330</latitude>
+            </geoLocation>
+            <div />
+            <contactList>
+                <contact id="1">
+                    <type id="4">Kontakt</type>
+                    <name>Stjørdal kommune</name>
+                    <telephone>74 83 35 00</telephone>
+                </contact>
+            </contactList>
+            <categoryList>
+                <category id="36">
+                    <name>Aktiviteter</name>
+                    <categorySubType1List>
+                        <categorySubType1 id="639">
+                            <name>Idrettstevner</name>
+                        </categorySubType1>
+                        <categorySubType1 id="1059">
+                            <name>Kurs</name>
+                            <categorySubType2List>
+                                <categorySubType2 id="1213">
+                                    <name>Sport</name>
+                                </categorySubType2>
+                            </categorySubType2List>
+                        </categorySubType1>
+                        <categorySubType1 id="690">
+                            <name>Sport</name>
+                            <categorySubType2List>
+                                <categorySubType2 id="645">
+                                    <name>Fotball</name>
+                                </categorySubType2>
+                                <categorySubType2 id="1124">
+                                    <name>Friidrett</name>
+                                </categorySubType2>
+                            </categorySubType2List>
+                        </categorySubType1>
+                        <categorySubType1 id="965">
+                            <name>Turstier</name>
+                        </categorySubType1>
+                    </categorySubType1List>
+                </category>
+            </categoryList>
+            <mediaChannelList>
+                <mediaChannel id="1">
+                    <name>Internett</name>
+                </mediaChannel>
+                <mediaChannel id="8">
+                    <name>Standard oppføring</name>
+                </mediaChannel>
+            </mediaChannelList>
+            <textList>
+                <text type="HOVED" lang="no" mime="text/plain" modified="2012-03-22T15:31:10" modifiedBy="Odd Petter Haugseth">Øverlands Minde ligger i Stjørdal sentrum like ved skolene og svømmehallen. Dette er hovedanlegget for friidrett i Stjørdal og for Stjørdals-Blink fotball. 
+
+                    Idrettsanlegget Øverlands Minde er omgitt av en stor furuskog på ca. 100 år; Sandskogan. Her er det flotte stier som benyttes til oppvarming før konkurranser, og av lokalbefolkningen til bl.a. rekreasjon. Fra Stjørdal sentrum er det gang- og sykkelvei bort til Øverlands Minde og videre gjennom Sandskogan til bl.a. Stokkan ungdomsskole og Fosslia Fjellhall.
+
+                    Øverlands Minde har:
+                    - Full løpebane med spurtan dekke
+                    - To lengdegroper
+                    - Madrass for høyde- og stavhopp
+                    - Diskos/sleggenett
+                    - Fotballbaner (11-er gress, 11-er kunstgress, to 7-er gress)
+                    - Tribune
+                    - Kiosk (kun åpen under arrangement)
+
+                    Nærmere informasjon og booking: Stjørdal kommune
+
+                    Parkering ved Ole Vig vgs. Innkjørsel E14, følg skilting Resveet/Golf, følg Ringveien ca. 500 meter og ta til venstre i første lyskryss.
+                </text>
+                <text type="HOVED_HTML" lang="no" mime="text/html" modified="2012-03-22T15:31:10" modifiedBy="Odd Petter Haugseth">&lt;p&gt;Øverlands Minde ligger i Stjørdal sentrum like ved skolene og svømmehallen. Dette er hovedanlegget for friidrett i Stjørdal og for Stjørdals-Blink fotball. &lt;br /&gt;&lt;br /&gt;Idrettsanlegget Øverlands Minde er omgitt av en stor furuskog på ca. 100 år; Sandskogan. Her er det flotte stier som benyttes til oppvarming før konkurranser, og av lokalbefolkningen til bl.a. rekreasjon. Fra Stjørdal sentrum er det gang- og sykkelvei bort til Øverlands Minde og videre gjennom Sandskogan til bl.a. Stokkan ungdomsskole og Fosslia Fjellhall.&lt;br /&gt;&lt;br /&gt;Øverlands Minde har:&lt;br /&gt;- Full løpebane med spurtan dekke&lt;br /&gt;- To lengdegroper&lt;br /&gt;- Madrass for høyde- og stavhopp&lt;br /&gt;- Diskos/sleggenett&lt;br /&gt;- Fotballbaner (11-er gress, 11-er kunstgress, to 7-er gress)&lt;br /&gt;- Tribune&lt;br /&gt;- Kiosk (kun åpen under arrangement)&lt;br /&gt;&lt;br /&gt;Nærmere informasjon og booking: Stjørdal kommune&lt;br /&gt;&lt;br /&gt;Parkering ved Ole Vig vgs. Innkjørsel E14, følg skilting Resveet/Golf, følg Ringveien ca. 500 meter og ta til venstre i første lyskryss.&lt;/p&gt;</text>
+                <text type="HOVED" lang="en" mime="text/plain" modified="2012-03-22T15:32:31" modifiedBy="Odd Petter Haugseth">Øverlands Minde Sports Arena is located in Stjørdal city centre, right between the schools Stokkan and Ole Vig, and the public swimming pool. This is the main facility for outdoor sports in Stjørdal and is home to Stjørdals-Blink Football.
+
+                    The sports arena is surrounded by a pine forest; Sandskogan, where you can find nice and accessible paths.
+
+                    You can walk or cycle from Stjørdal city centre to Øverlands Minde in just a few minutes.
+
+                    Facilities:
+                    - Full sized running track
+                    - Two long jump pits
+                    - Mattresses for high jump and pole jump
+                    - Discus/hammer throw net
+                    - Football pitches (11-a-side nature grass, 11-a-side artificial turf, two 7-a-side nature grass)
+                    - Main stand
+                    - Kiosk (open only on events)
+
+                    For more information and booking, contact Stjørdal city council.
+
+                    We recommend parking east of Ole Vig Secondary School. Exit from E14 onto Ringveien. Follow signs towards Resveet/Golf and take a left at the first traffic light controlled intersection.
+                </text>
+                <text type="HOVED_HTML" lang="en" mime="text/html" modified="2012-03-22T15:32:31" modifiedBy="Odd Petter Haugseth">&lt;p&gt;Øverlands Minde Sports Arena is located in Stjørdal city centre, right between the schools Stokkan and Ole Vig, and the public swimming pool. This is the main facility for outdoor sports in Stjørdal and is home to Stjørdals-Blink Football.&lt;br /&gt;&lt;br /&gt;The sports arena is surrounded by a pine forest; Sandskogan, where you can find nice and accessible paths.&lt;br /&gt;&lt;br /&gt;You can walk or cycle from Stjørdal city centre to Øverlands Minde in just a few minutes.&lt;br /&gt;&lt;br /&gt;Facilities:&lt;br /&gt;- Full sized running track&lt;br /&gt;- Two long jump pits&lt;br /&gt;- Mattresses for high jump and pole jump&lt;br /&gt;- Discus/hammer throw net&lt;br /&gt;- Football pitches (11-a-side nature grass, 11-a-side artificial turf, two 7-a-side nature grass)&lt;br /&gt;- Main stand&lt;br /&gt;- Kiosk (open only on events)&lt;br /&gt;&lt;br /&gt;For more information and booking, contact Stjørdal city council.&lt;br /&gt;&lt;br /&gt;We recommend parking east of Ole Vig Secondary School. Exit from E14 onto Ringveien. Follow signs towards Resveet/Golf and take a left at the first traffic light controlled intersection.&lt;/p&gt;</text>
+            </textList>
+            <facilityCategoryList>
+                <facilityCategory id="1">
+                    <name>Generelle fasiliteter</name>
+                    <facilityList>
+                        <facility id="42">
+                            <name>kiosk</name>
+                            <comment />
+                        </facility>
+                        <facility id="982">
+                            <name>parkering for buss</name>
+                            <comment />
+                        </facility>
+                        <facility id="2164">
+                            <name>parkeringsplass ute - gratis</name>
+                            <comment />
+                        </facility>
+                    </facilityList>
+                </facilityCategory>
+                <facilityCategory id="103">
+                    <name>Handikap</name>
+                    <facilityList>
+                        <facility id="1057">
+                            <name>tilgjengelig for rullestolbrukere</name>
+                            <comment />
+                        </facility>
+                    </facilityList>
+                </facilityCategory>
+                <facilityCategory id="92">
+                    <name>Natur og terreng</name>
+                    <facilityList>
+                        <facility id="1174">
+                            <name>bymessig/landsens</name>
+                            <comment />
+                        </facility>
+                        <facility id="554">
+                            <name>fotturområde</name>
+                            <comment />
+                        </facility>
+                        <facility id="30">
+                            <name>gode leforhold</name>
+                            <comment />
+                        </facility>
+                    </facilityList>
+                </facilityCategory>
+                <facilityCategory id="93">
+                    <name>Sportsaktiviteter</name>
+                    <facilityList>
+                        <facility id="706">
+                            <name>fotball</name>
+                            <comment />
+                        </facility>
+                        <facility id="707">
+                            <name>friidrett</name>
+                            <comment />
+                        </facility>
+                    </facilityList>
+                </facilityCategory>
+            </facilityCategoryList>
+            <relatedProductList>
+                <relatedProduct id="448897" dbownerId="389" customerId="25" productId="9">Fosslia Fjellhall</relatedProduct>
+                <relatedProduct id="448467" dbownerId="389" customerId="25" productId="5">Svømmehallen</relatedProduct>
+                <relatedProduct id="460325" dbownerId="389" customerId="25" productId="22">Skatvalshallen</relatedProduct>
+                <relatedProduct id="459599" dbownerId="389" customerId="25" productId="19">Hegra Idrettshall</relatedProduct>
+                <relatedProduct id="464005" dbownerId="389" customerId="25" productId="23">Stjørdalshallen</relatedProduct>
+            </relatedProductList>
+            <mediaList>
+                <media id="699" dbownerId="389" mime="image/jpg" sequence="7">
+                    <name>Øverlands Minde</name>
+                    <copyright>
+                        <name>Stjørdal kommune</name>
+                    </copyright>
+                    <thumbnail width="172" height="115" URI="http://media.tellus.no/images/?d=389&amp;p=699&amp;t=3" />
+                    <small width="350" height="234" URI="http://media.tellus.no/images/?d=389&amp;p=699&amp;t=2" />
+                    <large width="800" height="535" URI="http://media.tellus.no/images/?d=389&amp;p=699&amp;t=1" />
+                </media>
+                <media id="367" dbownerId="389" mime="image/jpeg" sequence="6">
+                    <name>Øverlands Minde - Landskamparena for gutteturnering i 2009</name>
+                    <copyright>
+                        <name>Knut Erlend Jegersen</name>
+                    </copyright>
+                    <thumbnail width="172" height="122" URI="http://media.tellus.no/images/?d=389&amp;p=367&amp;t=3" />
+                    <small width="350" height="248" URI="http://media.tellus.no/images/?d=389&amp;p=367&amp;t=2" />
+                    <large width="800" height="569" URI="http://media.tellus.no/images/?d=389&amp;p=367&amp;t=1" />
+                </media>
+                <media id="191" dbownerId="389" mime="image/jpeg" sequence="5">
+                    <name>Øverlands - Cup fotball 2010</name>
+                    <copyright>
+                        <name>Knut E. Jegersen</name>
+                    </copyright>
+                    <thumbnail width="172" height="82" URI="http://media.tellus.no/images/?d=389&amp;p=191&amp;t=3" />
+                    <small width="350" height="168" URI="http://media.tellus.no/images/?d=389&amp;p=191&amp;t=2" />
+                    <large width="800" height="384" URI="http://media.tellus.no/images/?d=389&amp;p=191&amp;t=1" />
+                </media>
+                <media id="62" dbownerId="389" mime="image/jpeg" sequence="4">
+                    <name>Øverlands Minde - Friidrett</name>
+                    <copyright>
+                        <name>Ola Hjelseng</name>
+                    </copyright>
+                    <thumbnail width="172" height="129" URI="http://media.tellus.no/images/?d=389&amp;p=62&amp;t=3" />
+                    <small width="350" height="262" URI="http://media.tellus.no/images/?d=389&amp;p=62&amp;t=2" />
+                    <large width="800" height="600" URI="http://media.tellus.no/images/?d=389&amp;p=62&amp;t=1" />
+                </media>
+                <media id="61" dbownerId="389" mime="image/jpeg" sequence="3">
+                    <name>Øverlands Minde - Friidrett</name>
+                    <copyright>
+                        <name>Ola Hjelseng</name>
+                    </copyright>
+                    <thumbnail width="172" height="129" URI="http://media.tellus.no/images/?d=389&amp;p=61&amp;t=3" />
+                    <small width="350" height="262" URI="http://media.tellus.no/images/?d=389&amp;p=61&amp;t=2" />
+                    <large width="800" height="600" URI="http://media.tellus.no/images/?d=389&amp;p=61&amp;t=1" />
+                </media>
+                <media id="60" dbownerId="389" mime="image/jpeg" sequence="2">
+                    <name>Øverlands Minde - Friidrett</name>
+                    <copyright>
+                        <name>Ola Hjelseng</name>
+                    </copyright>
+                    <thumbnail width="172" height="129" URI="http://media.tellus.no/images/?d=389&amp;p=60&amp;t=3" />
+                    <small width="350" height="262" URI="http://media.tellus.no/images/?d=389&amp;p=60&amp;t=2" />
+                    <large width="800" height="600" URI="http://media.tellus.no/images/?d=389&amp;p=60&amp;t=1" />
+                </media>
+                <media id="59" dbownerId="389" mime="image/jpeg" sequence="1">
+                    <name>Øverlands Minde - Friidrett</name>
+                    <copyright>
+                        <name>Ola Hjelseng</name>
+                    </copyright>
+                    <thumbnail width="172" height="129" URI="http://media.tellus.no/images/?d=389&amp;p=59&amp;t=3" />
+                    <small width="350" height="262" URI="http://media.tellus.no/images/?d=389&amp;p=59&amp;t=2" />
+                    <large width="800" height="600" URI="http://media.tellus.no/images/?d=389&amp;p=59&amp;t=1" />
+                </media>
+            </mediaList>
+            <transportList>
+                <transport id="1">
+                    <type id="10">Bil</type>
+                    <description>Se beskrivelse i tekstfeltet. Begrenset parkering høsten 2010 og hele 2011 pga. byggevirksomhet.</description>
+                </transport>
+                <transport id="2">
+                    <type id="1">Tog</type>
+                    <description>Fra Stjørdal st. 1 km opp til Øverlands Minde. Følg Skolegata eller Ole Vigs gt. opp mot skolene.</description>
+                </transport>
+            </transportList>
+            <distanceList>
+                <distance id="1">
+                    <name>Stjørdal sentrum</name>
+                    <time>1 min</time>
+                    <physical>0,5</physical>
+                </distance>
+                <distance id="2">
+                    <name>Trondheim lufthavn Værnes</name>
+                    <time>6 min</time>
+                    <physical>5</physical>
+                </distance>
+                <distance id="3">
+                    <name>Trondheim</name>
+                    <time>35 min</time>
+                    <physical>35</physical>
+                </distance>
+            </distanceList>
+        </product>
+        <product id="339918" dbownerId="95" customerId="305" productId="1" lang="no" created="2009-05-15T12:37:19" createdBy="HM" modified="2009-05-15T12:51:47" modifiedBy="HM">
+            <name>Aktiviteter</name>
+            <address>
+                <postalArea postalCode="7100">Rissa</postalArea>
+                <municipality id="1624">Rissa</municipality>
+                <county id="16">Sør-Trøndelag</county>
+                <country id="NO">Norge</country>
+            </address>
+            <contactInformation />
+            <geoLocation type="WGS 84">
+                <longitude>9.9625933170</longitude>
+                <latitude>63.584133890</latitude>
+            </geoLocation>
+            <div />
+            <contactList>
+                <contact id="1">
+                    <type id="4">Kontakt</type>
+                    <name>Turid Irene Dyrendahl</name>
+                    <telephone>73850850</telephone>
+                    <fax>73852075</fax>
+                    <email>booking@rissa-hotell.no</email>
+                </contact>
+            </contactList>
+            <categoryList>
+                <category id="36">
+                    <name>Aktiviteter</name>
+                    <categorySubType1List>
+                        <categorySubType1 id="417">
+                            <name>Båtturer</name>
+                            <categorySubType2List>
+                                <categorySubType2 id="736">
+                                    <name>Sightseeing</name>
+                                </categorySubType2>
+                            </categorySubType2List>
+                        </categorySubType1>
+                        <categorySubType1 id="131">
+                            <name>Fiske</name>
+                            <categorySubType2List>
+                                <categorySubType2 id="1165">
+                                    <name>Fjordfiske</name>
+                                </categorySubType2>
+                                <categorySubType2 id="703">
+                                    <name>Havfiske</name>
+                                </categorySubType2>
+                            </categorySubType2List>
+                        </categorySubType1>
+                        <categorySubType1 id="913">
+                            <name>Fjelltur</name>
+                        </categorySubType1>
+                        <categorySubType1 id="1127">
+                            <name>Kano/Kajakk</name>
+                        </categorySubType1>
+                        <categorySubType1 id="1482">
+                            <name>Mat &amp; drikke</name>
+                        </categorySubType1>
+                        <categorySubType1 id="953">
+                            <name>Opplevelse</name>
+                            <categorySubType2List>
+                                <categorySubType2 id="2383">
+                                    <name>I naturen</name>
+                                </categorySubType2>
+                            </categorySubType2List>
+                        </categorySubType1>
+                        <categorySubType1 id="958">
+                            <name>Rekreasjon/behandlingssenter</name>
+                            <categorySubType2List>
+                                <categorySubType2 id="1070">
+                                    <name>Spa</name>
+                                </categorySubType2>
+                            </categorySubType2List>
+                        </categorySubType1>
+                        <categorySubType1 id="757">
+                            <name>Sightseeing</name>
+                        </categorySubType1>
+                        <categorySubType1 id="690">
+                            <name>Sport</name>
+                            <categorySubType2List>
+                                <categorySubType2 id="121">
+                                    <name>Kano/padling</name>
+                                </categorySubType2>
+                                <categorySubType2 id="644">
+                                    <name>Sykling</name>
+                                </categorySubType2>
+                            </categorySubType2List>
+                        </categorySubType1>
+                        <categorySubType1 id="1125">
+                            <name>Sykkel</name>
+                            <categorySubType2List>
+                                <categorySubType2 id="1296">
+                                    <name>Utleie</name>
+                                </categorySubType2>
+                            </categorySubType2List>
+                        </categorySubType1>
+                    </categorySubType1List>
+                </category>
+            </categoryList>
+            <mediaChannelList>
+                <mediaChannel id="8">
+                    <name>Standard oppføring</name>
+                </mediaChannel>
+            </mediaChannelList>
+            <relatedProductList>
+                <relatedProduct id="42114" dbownerId="95" customerId="165" productId="1">Reins Kloster</relatedProduct>
+            </relatedProductList>
+        </product>
+        <product id="565184" dbownerId="27" customerId="77" productId="373" lang="no" created="2011-11-03T14:53:46" createdBy="Monica Selnes" modified="2012-04-10T14:11:12" modifiedBy="Nina Wikan">
+            <name>Ladestien</name>
+            <address>
+                <municipality id="1601">Trondheim</municipality>
+                <county id="16">Sør-Trøndelag</county>
+                <country id="NO">Norge</country>
+            </address>
+            <contactInformation />
+            <div />
+            <categoryList>
+                <category id="36">
+                    <name>Aktiviteter</name>
+                    <categorySubType1List>
+                        <categorySubType1 id="2428">
+                            <name>Turer</name>
+                        </categorySubType1>
+                        <categorySubType1 id="2682">
+                            <name>Turer på egenhånd</name>
+                        </categorySubType1>
+                        <categorySubType1 id="917">
+                            <name>Vandring</name>
+                        </categorySubType1>
+                    </categorySubType1List>
+                </category>
+            </categoryList>
+            <textList>
+                <text type="HOVED" lang="no" mime="text/plain" modified="2011-11-03T15:21:14" modifiedBy="Monica Selnes">På Ladehalvøya finner du Ladestien (ca 14km). Stien går gjennom lune bukter og over knauser med flott utsikt over Trondheimsfjorden mot Frosta og Fosen. Ladehalvøya har en sentral plass i Trondheims 1000-årige historie.
+                    Ved Ringvebukta står forfatteren Kristian Kristiansens dikterstue, og i Sponhuset like ved kan du få kjøpt deilige vafler.
+                </text>
+                <text type="HOVED_HTML" lang="no" mime="text/html" modified="2011-11-03T15:21:14" modifiedBy="Monica Selnes">&lt;p&gt;På Ladehalvøya finner du Ladestien (ca 14km). Stien går gjennom lune bukter og over knauser med flott utsikt over Trondheimsfjorden mot Frosta og Fosen. Ladehalvøya har en sentral plass i Trondheims 1000-årige historie.&lt;br /&gt;Ved Ringvebukta står forfatteren Kristian Kristiansens dikterstue, og i Sponhuset like ved kan du få kjøpt deilige vafler.&lt;/p&gt;</text>
+                <text type="HOVED" lang="en" mime="text/plain" modified="2011-11-03T15:17:05" modifiedBy="Monica Selnes">The Lade Trail of about 14 km (9 miles) goes along the coast of the Lade peninsula. The trail passes sheltered bays and goes over hilltops providing a wonderful view over the Trondheim fjord, to Fosen and Frosta.</text>
+                <text type="HOVED_HTML" lang="en" mime="text/plain" modified="2011-11-03T15:17:05" modifiedBy="Monica Selnes">&lt;p&gt;The Lade Trail of about 14 km (9 miles) goes along the coast of the Lade peninsula. The trail passes sheltered bays and goes over hilltops providing a wonderful view over the Trondheim fjord, to Fosen and Frosta.&lt;/p&gt;</text>
+            </textList>
+            <mediaList>
+                <media id="2123" dbownerId="27" mime="image/jpeg" sequence="4">
+                    <name>Ladestien</name>
+                    <copyright>
+                        <name>Visit Trondheim</name>
+                    </copyright>
+                    <thumbnail width="172" height="129" URI="http://media.tellus.no/images/?d=27&amp;p=2123&amp;t=3" />
+                    <small width="350" height="262" URI="http://media.tellus.no/images/?d=27&amp;p=2123&amp;t=2" />
+                    <large width="800" height="600" URI="http://media.tellus.no/images/?d=27&amp;p=2123&amp;t=1" />
+                </media>
+                <media id="2122" dbownerId="27" mime="image/jpeg" sequence="3">
+                    <name>Ladestien</name>
+                    <copyright>
+                        <name>Visit Trondheim</name>
+                    </copyright>
+                    <thumbnail width="172" height="129" URI="http://media.tellus.no/images/?d=27&amp;p=2122&amp;t=3" />
+                    <small width="350" height="262" URI="http://media.tellus.no/images/?d=27&amp;p=2122&amp;t=2" />
+                    <large width="800" height="600" URI="http://media.tellus.no/images/?d=27&amp;p=2122&amp;t=1" />
+                </media>
+                <media id="2121" dbownerId="27" mime="image/jpeg" sequence="2">
+                    <name>Ladestien</name>
+                    <copyright>
+                        <name>Visit Trondheim</name>
+                    </copyright>
+                    <thumbnail width="172" height="129" URI="http://media.tellus.no/images/?d=27&amp;p=2121&amp;t=3" />
+                    <small width="350" height="262" URI="http://media.tellus.no/images/?d=27&amp;p=2121&amp;t=2" />
+                    <large width="800" height="600" URI="http://media.tellus.no/images/?d=27&amp;p=2121&amp;t=1" />
+                </media>
+                <media id="2120" dbownerId="27" mime="image/jpeg" sequence="1">
+                    <name>Ladestien</name>
+                    <copyright>
+                        <name>Visit Trondheim</name>
+                    </copyright>
+                    <thumbnail width="172" height="129" URI="http://media.tellus.no/images/?d=27&amp;p=2120&amp;t=3" />
+                    <small width="350" height="262" URI="http://media.tellus.no/images/?d=27&amp;p=2120&amp;t=2" />
+                    <large width="800" height="600" URI="http://media.tellus.no/images/?d=27&amp;p=2120&amp;t=1" />
+                </media>
+            </mediaList>
+            <advertisementList>
+                <advertisement id="1">
+                    <type id="6">Full prod. present. med link 1</type>
+                </advertisement>
+            </advertisementList>
+            <customTypeList>
+                <customType id="1" dbownerId="27">WEB</customType>
+                <customType id="3" dbownerId="27">Se og gjøre</customType>
+                <customType id="30" dbownerId="27">Aktiviteter</customType>
+            </customTypeList>
+        </product>
+        <product id="482042" dbownerId="389" customerId="63" productId="1" lang="no" created="2011-02-11T11:56:20" createdBy="Odd Petter Haugseth" modified="2011-09-16T13:20:21" modifiedBy="Odd Petter Haugseth">
+            <name>Naturfotograf Svein Wik</name>
+            <address>
+                <municipality id="1714">Stjørdal</municipality>
+                <county id="17">Nord-Trøndelag</county>
+                <country id="NO">Norge</country>
+            </address>
+            <contactInformation>
+                <web>www.sveinwik.com</web>
+            </contactInformation>
+            <geoLocation type="WGS 84">
+                <longitude>11.496119498</longitude>
+                <latitude>63.465620565</latitude>
+            </geoLocation>
+            <div />
+            <contactList>
+                <contact id="1">
+                    <type id="4">Kontakt</type>
+                    <name>Svein Wik</name>
+                    <mobile>958 97 730</mobile>
+                    <email>svein@sveinwik.com</email>
+                </contact>
+            </contactList>
+            <categoryList>
+                <category id="36">
+                    <name>Aktiviteter</name>
+                    <categorySubType1List>
+                        <categorySubType1 id="974">
+                            <name>Fuglekikking</name>
+                        </categorySubType1>
+                        <categorySubType1 id="1059">
+                            <name>Kurs</name>
+                            <categorySubType2List>
+                                <categorySubType2 id="1219">
+                                    <name>Andre kurs</name>
+                                </categorySubType2>
+                            </categorySubType2List>
+                        </categorySubType1>
+                        <categorySubType1 id="953">
+                            <name>Opplevelse</name>
+                            <categorySubType2List>
+                                <categorySubType2 id="2383">
+                                    <name>I naturen</name>
+                                </categorySubType2>
+                            </categorySubType2List>
+                        </categorySubType1>
+                        <categorySubType1 id="433">
+                            <name>Safari</name>
+                            <categorySubType2List>
+                                <categorySubType2 id="890">
+                                    <name>Fuglesafari</name>
+                                </categorySubType2>
+                            </categorySubType2List>
+                        </categorySubType1>
+                    </categorySubType1List>
+                </category>
+            </categoryList>
+            <mediaChannelList>
+                <mediaChannel id="1">
+                    <name>Internett</name>
+                </mediaChannel>
+                <mediaChannel id="8">
+                    <name>Standard oppføring</name>
+                </mediaChannel>
+            </mediaChannelList>
+            <textList>
+                <text type="HOVED" lang="no" mime="text/plain" modified="2011-09-16T13:19:08" modifiedBy="Odd Petter Haugseth">Tekst kommer i  løpet av uke 39 2011</text>
+                <text type="HOVED_HTML" lang="no" mime="text/plain" modified="2011-09-16T13:19:08" modifiedBy="Odd Petter Haugseth">&lt;p&gt;Tekst kommer i  løpet av uke 39 2011&lt;/p&gt;</text>
+            </textList>
+            <mediaList>
+                <media id="617" dbownerId="389" mime="image/jpeg" sequence="1">
+                    <name>Turidyll i Stjørdal</name>
+                    <copyright>
+                        <name>Svein Wik</name>
+                    </copyright>
+                    <thumbnail width="172" height="114" URI="http://media.tellus.no/images/?d=389&amp;p=617&amp;t=3" />
+                    <small width="350" height="232" URI="http://media.tellus.no/images/?d=389&amp;p=617&amp;t=2" />
+                    <large width="800" height="531" URI="http://media.tellus.no/images/?d=389&amp;p=617&amp;t=1" />
+                </media>
+            </mediaList>
+        </product>
+        <product id="430619" dbownerId="353" customerId="46" productId="2" lang="no" created="2010-06-23T14:33:48" createdBy="TH" modified="2010-07-07T13:14:06" modifiedBy="TH">
+            <name>Bryggen</name>
+            <address>
+                <street>Siholmen</street>
+                <postalArea postalCode="7260">Sistranda</postalArea>
+                <municipality id="1620">Frøya</municipality>
+                <county id="16">Sør-Trøndelag</county>
+                <country id="NO">Norge</country>
+            </address>
+            <contactInformation />
+            <geoLocation type="WGS 84">
+                <longitude>8.8333007</longitude>
+                <latitude>63.7226387</latitude>
+            </geoLocation>
+            <div />
+            <contactList>
+                <contact id="1">
+                    <type id="4">Kontakt</type>
+                    <name>Wenche Boltås</name>
+                    <telephone>72 44 78 20</telephone>
+                    <email>post@siholmen.no</email>
+                </contact>
+            </contactList>
+            <categoryList>
+                <category id="36">
+                    <name>Aktiviteter</name>
+                    <categorySubType1List>
+                        <categorySubType1 id="1200">
+                            <name>For bussgrupper</name>
+                        </categorySubType1>
+                        <categorySubType1 id="404">
+                            <name>Guidet tur</name>
+                            <categorySubType2List>
+                                <categorySubType2 id="1129">
+                                    <name>Park/hage</name>
+                                </categorySubType2>
+                                <categorySubType2 id="2474">
+                                    <name>Sommer</name>
+                                </categorySubType2>
+                            </categorySubType2List>
+                        </categorySubType1>
+                        <categorySubType1 id="854">
+                            <name>Julebord</name>
+                        </categorySubType1>
+                        <categorySubType1 id="934">
+                            <name>Konferanse</name>
+                        </categorySubType1>
+                        <categorySubType1 id="1482">
+                            <name>Mat &amp; drikke</name>
+                        </categorySubType1>
+                        <categorySubType1 id="1089">
+                            <name>Natur</name>
+                        </categorySubType1>
+                        <categorySubType1 id="1159">
+                            <name>Team building</name>
+                        </categorySubType1>
+                        <categorySubType1 id="2428">
+                            <name>Turer</name>
+                            <categorySubType2List>
+                                <categorySubType2 id="2549">
+                                    <name>Fisketur</name>
+                                </categorySubType2>
+                            </categorySubType2List>
+                        </categorySubType1>
+                        <categorySubType1 id="2682">
+                            <name>Turer på egenhånd</name>
+                        </categorySubType1>
+                        <categorySubType1 id="2690">
+                            <name>Øyhopping</name>
+                        </categorySubType1>
+                    </categorySubType1List>
+                </category>
+            </categoryList>
+            <mediaChannelList>
+                <mediaChannel id="1">
+                    <name>Internett</name>
+                </mediaChannel>
+                <mediaChannel id="2">
+                    <name>Internett lokal</name>
+                </mediaChannel>
+                <mediaChannel id="5">
+                    <name>Lokal</name>
+                </mediaChannel>
+                <mediaChannel id="8">
+                    <name>Standard oppføring</name>
+                </mediaChannel>
+            </mediaChannelList>
+            <textList>
+                <text type="HOVED" lang="no" mime="text/plain" modified="2010-06-23T14:43:56" modifiedBy="TH">Vi har et godt smarbeid med lokale aktører og kan i tillegg til god mat og drikke, tilby havfisketurer, safariturer, markaturer, seljakt og mye mer.</text>
+            </textList>
+            <facilityCategoryList>
+                <facilityCategory id="5">
+                    <name>Aktiviteter</name>
+                    <facilityList>
+                        <facility id="1061">
+                            <name>fiskemuligheter</name>
+                            <comment />
+                        </facility>
+                        <facility id="1083">
+                            <name>fotturer</name>
+                            <comment />
+                        </facility>
+                        <facility id="274">
+                            <name>havfisketurer</name>
+                            <comment />
+                        </facility>
+                        <facility id="412">
+                            <name>sykkeltur</name>
+                            <comment />
+                        </facility>
+                        <facility id="645">
+                            <name>sykling</name>
+                            <comment />
+                        </facility>
+                        <facility id="748">
+                            <name>turstier</name>
+                            <comment />
+                        </facility>
+                    </facilityList>
+                </facilityCategory>
+                <facilityCategory id="10">
+                    <name>Annen overnatting</name>
+                    <facilityList>
+                        <facility id="844">
+                            <name>leiligheter</name>
+                            <comment />
+                        </facility>
+                    </facilityList>
+                </facilityCategory>
+                <facilityCategory id="1">
+                    <name>Generelle fasiliteter</name>
+                    <facilityList>
+                        <facility id="1181">
+                            <name>barnevennlig</name>
+                            <comment />
+                        </facility>
+                        <facility id="1364">
+                            <name>båthavn</name>
+                            <comment />
+                        </facility>
+                        <facility id="1430">
+                            <name>familievennlig</name>
+                            <comment />
+                        </facility>
+                        <facility id="1152">
+                            <name>frokost inkludert</name>
+                            <comment />
+                        </facility>
+                        <facility id="1663">
+                            <name>gratis parkering</name>
+                            <comment />
+                        </facility>
+                        <facility id="1329">
+                            <name>internett</name>
+                            <comment />
+                        </facility>
+                        <facility id="1063">
+                            <name>konferansefasiliteter</name>
+                            <comment />
+                        </facility>
+                        <facility id="1064">
+                            <name>kursfasiliteter</name>
+                            <comment />
+                        </facility>
+                        <facility id="1034">
+                            <name>reservasjon mulig</name>
+                            <comment />
+                        </facility>
+                        <facility id="149">
+                            <name>restaurant</name>
+                            <comment />
+                        </facility>
+                        <facility id="421">
+                            <name>selskapslokaler</name>
+                            <comment />
+                        </facility>
+                        <facility id="1591">
+                            <name>trådløst internett</name>
+                            <comment />
+                        </facility>
+                        <facility id="1189">
+                            <name>uteplass</name>
+                            <comment />
+                        </facility>
+                        <facility id="1525">
+                            <name>uteservering</name>
+                            <comment />
+                        </facility>
+                    </facilityList>
+                </facilityCategory>
+                <facilityCategory id="95">
+                    <name>Havnefasiliteter</name>
+                    <facilityList>
+                        <facility id="1110">
+                            <name>gjestehavn</name>
+                            <comment />
+                        </facility>
+                    </facilityList>
+                </facilityCategory>
+                <facilityCategory id="48">
+                    <name>Kredittkort</name>
+                    <facilityList>
+                        <facility id="921">
+                            <name>aksepterer kredittkort</name>
+                            <comment />
+                        </facility>
+                    </facilityList>
+                </facilityCategory>
+                <facilityCategory id="77">
+                    <name>Mat og drikke</name>
+                    <facilityList>
+                        <facility id="1306">
+                            <name>à la carte</name>
+                            <comment />
+                        </facility>
+                        <facility id="2125">
+                            <name>bordbestilling er ikke nødvendig</name>
+                            <comment />
+                        </facility>
+                        <facility id="2104">
+                            <name>brunch</name>
+                            <comment />
+                        </facility>
+                        <facility id="964">
+                            <name>buffé</name>
+                            <comment />
+                        </facility>
+                        <facility id="1308">
+                            <name>dagens</name>
+                            <comment />
+                        </facility>
+                        <facility id="597">
+                            <name>fisk og skalldyr</name>
+                            <comment />
+                        </facility>
+                        <facility id="1577">
+                            <name>lokale retter</name>
+                            <comment />
+                        </facility>
+                        <facility id="1710">
+                            <name>lukkede selskap</name>
+                            <comment />
+                        </facility>
+                        <facility id="1346">
+                            <name>lunch</name>
+                            <comment />
+                        </facility>
+                        <facility id="1221">
+                            <name>lunch buffet</name>
+                            <comment />
+                        </facility>
+                        <facility id="2103">
+                            <name>middag</name>
+                            <comment />
+                        </facility>
+                        <facility id="598">
+                            <name>norsk mat</name>
+                            <comment />
+                        </facility>
+                        <facility id="2105">
+                            <name>sen åpningstid 23+</name>
+                            <comment />
+                        </facility>
+                        <facility id="1195">
+                            <name>sommerrestaurant</name>
+                            <comment />
+                        </facility>
+                        <facility id="2119">
+                            <name>spesiell beliggenhet</name>
+                            <comment />
+                        </facility>
+                        <facility id="608">
+                            <name>uteservering</name>
+                            <comment />
+                        </facility>
+                        <facility id="2115">
+                            <name>vinbar</name>
+                            <comment />
+                        </facility>
+                        <facility id="2106">
+                            <name>vinkart</name>
+                            <comment />
+                        </facility>
+                    </facilityList>
+                </facilityCategory>
+                <facilityCategory id="92">
+                    <name>Natur og terreng</name>
+                    <facilityList>
+                        <facility id="1798">
+                            <name>kyst</name>
+                            <comment />
+                        </facility>
+                    </facilityList>
+                </facilityCategory>
+                <facilityCategory id="122">
+                    <name>Romfasiliteter</name>
+                    <facilityList>
+                        <facility id="893">
+                            <name>fjordutsikt</name>
+                            <comment />
+                        </facility>
+                        <facility id="1554">
+                            <name>havsutsikt</name>
+                            <comment />
+                        </facility>
+                        <facility id="1523">
+                            <name>TV på rommet</name>
+                            <comment />
+                        </facility>
+                    </facilityList>
+                </facilityCategory>
+                <facilityCategory id="11">
+                    <name>Skjenkerettigheter</name>
+                    <facilityList>
+                        <facility id="69">
+                            <name>alle rettigheter</name>
+                            <comment />
+                        </facility>
+                    </facilityList>
+                </facilityCategory>
+            </facilityCategoryList>
+            <relatedProductList>
+                <relatedProduct id="311681" dbownerId="353" customerId="2" productId="3">Destinasjon Trøndelagskysten AS</relatedProduct>
+                <relatedProduct id="259121" dbownerId="353" customerId="2" productId="2">Destinasjon Trøndelagskysten AS - Aktivitetsformidling</relatedProduct>
+                <relatedProduct id="272958" dbownerId="353" customerId="33" productId="2">Gurvikdal Havfiskesenter - Jakt og Fiske</relatedProduct>
+                <relatedProduct id="328045" dbownerId="353" customerId="43" productId="1">Hitra Frøya Guide service</relatedProduct>
+                <relatedProduct id="268229" dbownerId="353" customerId="26" productId="1">Hotell Frøya</relatedProduct>
+                <relatedProduct id="311486" dbownerId="353" customerId="26" productId="2">Hotell Frøya - Gruppepakker</relatedProduct>
+                <relatedProduct id="271030" dbownerId="353" customerId="37" productId="1">MS Ansnes - Havfisketurer</relatedProduct>
+                <relatedProduct id="421684" dbownerId="353" customerId="44" productId="1">Wold Kyst Transport AS</relatedProduct>
+                <relatedProduct id="351503" dbownerId="353" customerId="29" productId="3">Ørn og selsafari</relatedProduct>
+            </relatedProductList>
+            <mediaList>
+                <media id="183" dbownerId="353" mime="image/jpeg" sequence="3">
+                    <name>Logo Bryggen</name>
+                    <thumbnail width="172" height="104" URI="http://media.tellus.no/images/?d=353&amp;p=183&amp;t=3" />
+                    <small width="350" height="213" URI="http://media.tellus.no/images/?d=353&amp;p=183&amp;t=2" />
+                    <large width="800" height="487" URI="http://media.tellus.no/images/?d=353&amp;p=183&amp;t=1" />
+                </media>
+                <media id="182" dbownerId="353" mime="image/jpeg" sequence="2">
+                    <name>Bryggen</name>
+                    <thumbnail width="172" height="154" URI="http://media.tellus.no/images/?d=353&amp;p=182&amp;t=3" />
+                    <small width="300" height="269" URI="http://media.tellus.no/images/?d=353&amp;p=182&amp;t=2" />
+                    <large width="300" height="269" URI="http://media.tellus.no/images/?d=353&amp;p=182&amp;t=1" />
+                </media>
+                <media id="181" dbownerId="353" mime="image/jpeg" sequence="1">
+                    <name>Bryggen</name>
+                    <thumbnail width="150" height="115" URI="http://media.tellus.no/images/?d=353&amp;p=181&amp;t=3" />
+                    <small width="150" height="115" URI="http://media.tellus.no/images/?d=353&amp;p=181&amp;t=2" />
+                    <large width="150" height="115" URI="http://media.tellus.no/images/?d=353&amp;p=181&amp;t=1" />
+                </media>
+            </mediaList>
+        </product>
+        <product id="567754" dbownerId="44" customerId="15" productId="156" lang="no" created="2010-06-20T15:30:59" createdBy="BT" modified="2012-02-07T13:22:18" modifiedBy="Ståle Berre">
+            <name>Skøytebane</name>
+            <address>
+                <postalArea postalCode="7374">Røros</postalArea>
+                <municipality id="1640">Røros</municipality>
+                <county id="16">Sør-Trøndelag</county>
+                <country id="NO">Norge</country>
+            </address>
+            <contactInformation>
+                <web>www.roros.no</web>
+            </contactInformation>
+            <geoLocation type="WGS 84">
+                <longitude>11.383677646</longitude>
+                <latitude>62.574603652</latitude>
+            </geoLocation>
+            <div />
+            <contactList>
+                <contact id="1">
+                    <type id="4">Kontakt</type>
+                    <telephone>+47 72 41 00 50</telephone>
+                    <fax>+47 72 41 02 08</fax>
+                    <email>post@rorosinfo.com</email>
+                </contact>
+            </contactList>
+            <categoryList>
+                <category id="36">
+                    <name>Aktiviteter</name>
+                    <categorySubType1List>
+                        <categorySubType1 id="1507">
+                            <name>Skøyter</name>
+                        </categorySubType1>
+                    </categorySubType1List>
+                </category>
+            </categoryList>
+            <mediaChannelList>
+                <mediaChannel id="8">
+                    <name>Standard oppføring</name>
+                </mediaChannel>
+            </mediaChannelList>
+            <textList>
+                <text type="HOVED" lang="no" mime="text/plain" modified="2010-06-20T15:33:19" modifiedBy="BT">Liten og barnevennlig skøytebane i parken nederst i Kjerkgata. Lyssatt på ettermiddag og tidl. kveld. I adventstiden omkranser den julegranen.</text>
+                <text type="HOVED" lang="en" mime="text/plain" modified="2010-06-20T15:33:48" modifiedBy="BT">Small, child-friendly ice rink in the park at the bottom of Kjerkgata. Floodlit during the afternoons and early evenings. During Advent, it encircles the Christmas tree. </text>
+            </textList>
+            <relatedProductList>
+                <relatedProduct id="24583" dbownerId="44" customerId="15" productId="1">Destinasjon Røros</relatedProduct>
+                <relatedProduct id="24585" dbownerId="44" customerId="15" productId="35">Sykkelturer</relatedProduct>
+                <relatedProduct id="24586" dbownerId="44" customerId="15" productId="46">Turskiløyper i Røros</relatedProduct>
+                <relatedProduct id="24588" dbownerId="44" customerId="15" productId="67">Turskiløyper i Tolga</relatedProduct>
+                <relatedProduct id="24589" dbownerId="44" customerId="15" productId="68">Turskiløyper i Os</relatedProduct>
+                <relatedProduct id="24590" dbownerId="44" customerId="15" productId="69">Bergstadvandring / byvandring</relatedProduct>
+                <relatedProduct id="24591" dbownerId="44" customerId="15" productId="70">Røros Kirke</relatedProduct>
+                <relatedProduct id="269611" dbownerId="44" customerId="15" productId="72">Røros Turistkontor</relatedProduct>
+                <relatedProduct id="345307" dbownerId="44" customerId="15" productId="73">Hyttstuggu - Tolga Turistinformasjon</relatedProduct>
+                <relatedProduct id="345309" dbownerId="44" customerId="15" productId="75">Kølbua Kafe - Turistinformasjon</relatedProduct>
+                <relatedProduct id="345310" dbownerId="44" customerId="15" productId="76">Eafossen - Turistinformasjon</relatedProduct>
+                <relatedProduct id="345311" dbownerId="44" customerId="15" productId="77">Gammelgården - Turistinformasjon</relatedProduct>
+                <relatedProduct id="346118" dbownerId="44" customerId="15" productId="78">Rebusløp - Bergstaden på kryss og tvers</relatedProduct>
+                <relatedProduct id="382922" dbownerId="44" customerId="15" productId="79">Julerebus</relatedProduct>
+                <relatedProduct id="492337" dbownerId="44" customerId="15" productId="82">Omvisninger i Røros Kirke</relatedProduct>
+                <relatedProduct id="499580" dbownerId="44" customerId="15" productId="85">Røroshistorien for barn</relatedProduct>
+                <relatedProduct id="499969" dbownerId="44" customerId="15" productId="86">Påskekonsert i Bergstadens Ziir</relatedProduct>
+                <relatedProduct id="501889" dbownerId="44" customerId="15" productId="88">Orgelkonsert i Røros Kirke</relatedProduct>
+                <relatedProduct id="512820" dbownerId="44" customerId="15" productId="90">Fjellets Motordag</relatedProduct>
+                <relatedProduct id="512850" dbownerId="44" customerId="15" productId="91">Fotballkamp Ålen/Brekken- Os/Nansen</relatedProduct>
+                <relatedProduct id="512854" dbownerId="44" customerId="15" productId="92">Fotballkamp Tynset-KIL/Hemne</relatedProduct>
+                <relatedProduct id="514485" dbownerId="44" customerId="15" productId="93">Salgsutstilling: Sverre Ødegaard</relatedProduct>
+                <relatedProduct id="514558" dbownerId="44" customerId="15" productId="94">Pubaften på Taverna</relatedProduct>
+                <relatedProduct id="514588" dbownerId="44" customerId="15" productId="96">Kulturinnslag ved Engan skanse</relatedProduct>
+                <relatedProduct id="514592" dbownerId="44" customerId="15" productId="97">Historisk vandring mellom Hessdalen og Os</relatedProduct>
+                <relatedProduct id="514596" dbownerId="44" customerId="15" productId="98">Minnestund ved bautaen i Ålen</relatedProduct>
+                <relatedProduct id="514599" dbownerId="44" customerId="15" productId="99">Kulturminnedagen ved Eidet smelthytte</relatedProduct>
+                <relatedProduct id="534837" dbownerId="44" customerId="15" productId="102">Lokalmatsafari - Galåen, Dalsbygda og Såttåhaugen</relatedProduct>
+                <relatedProduct id="534864" dbownerId="44" customerId="15" productId="104">Lokalmatsafari - Aursunden rundt</relatedProduct>
+                <relatedProduct id="534884" dbownerId="44" customerId="15" productId="105">Lokalmatsafari - Nasjonalparklandsbyen Vingelen</relatedProduct>
+                <relatedProduct id="554133" dbownerId="44" customerId="15" productId="108">Konsert i Røros Kirke</relatedProduct>
+                <relatedProduct id="556170" dbownerId="44" customerId="15" productId="109">Konsert med Minikvartetten</relatedProduct>
+                <relatedProduct id="556174" dbownerId="44" customerId="15" productId="110">Litterær vandring</relatedProduct>
+                <relatedProduct id="556175" dbownerId="44" customerId="15" productId="111">Litterært seminar</relatedProduct>
+                <relatedProduct id="556176" dbownerId="44" customerId="15" productId="112">Møt Per Arne Dahl</relatedProduct>
+                <relatedProduct id="586062" dbownerId="44" customerId="32" productId="67">Tufsingdal naturreservat</relatedProduct>
+                <relatedProduct id="567352" dbownerId="44" customerId="15" productId="121">Loppemarked i Gammelgården - Haltdalen</relatedProduct>
+                <relatedProduct id="567353" dbownerId="44" customerId="15" productId="122">Mountain farm weekend in Aunegrenda</relatedProduct>
+                <relatedProduct id="567358" dbownerId="44" customerId="15" productId="123">Seterhelgfest i Aunegrenda</relatedProduct>
+                <relatedProduct id="567360" dbownerId="44" customerId="15" productId="124">Setermesse i Aunegrenda</relatedProduct>
+                <relatedProduct id="567379" dbownerId="44" customerId="15" productId="125">Fottur i Vestfjella</relatedProduct>
+                <relatedProduct id="567380" dbownerId="44" customerId="15" productId="126">Norsk Mandelpotetfestival</relatedProduct>
+                <relatedProduct id="567392" dbownerId="44" customerId="15" productId="128">4 Summit Race</relatedProduct>
+                <relatedProduct id="567393" dbownerId="44" customerId="15" productId="129">Antikk- og samlemesse.</relatedProduct>
+                <relatedProduct id="567398" dbownerId="44" customerId="15" productId="131">Barnas Femundløp</relatedProduct>
+                <relatedProduct id="567400" dbownerId="44" customerId="15" productId="132">Berserennet</relatedProduct>
+                <relatedProduct id="567404" dbownerId="44" customerId="15" productId="133">Dammen i Hitterdals- og Hådalsvassdraget</relatedProduct>
+                <relatedProduct id="567406" dbownerId="44" customerId="15" productId="134">Dekormaling på Oddentunet. Foredrag ved Amund Spangen</relatedProduct>
+                <relatedProduct id="567407" dbownerId="44" customerId="15" productId="135">Fellestur til Stor-Sylen i Tydal</relatedProduct>
+                <relatedProduct id="567412" dbownerId="44" customerId="15" productId="136">Femund og setertraktene</relatedProduct>
+                <relatedProduct id="567419" dbownerId="44" customerId="15" productId="138">Funäsdalen</relatedProduct>
+                <relatedProduct id="567432" dbownerId="44" customerId="15" productId="140">Golf i Funäsdalen</relatedProduct>
+                <relatedProduct id="567439" dbownerId="44" customerId="15" productId="141">Hessdalen Research Association</relatedProduct>
+                <relatedProduct id="567440" dbownerId="44" customerId="15" productId="142">Hiort-kapellet</relatedProduct>
+                <relatedProduct id="567630" dbownerId="44" customerId="15" productId="143">Jakt og fiske</relatedProduct>
+                <relatedProduct id="567632" dbownerId="44" customerId="15" productId="144">Julemarked på Røros</relatedProduct>
+                <relatedProduct id="567637" dbownerId="44" customerId="15" productId="145">Kaffekvenna</relatedProduct>
+                <relatedProduct id="567652" dbownerId="44" customerId="15" productId="146">Kanoutleie</relatedProduct>
+                <relatedProduct id="567653" dbownerId="44" customerId="15" productId="147">Knis Karls Resan - Folkemusikkhelg</relatedProduct>
+                <relatedProduct id="567654" dbownerId="44" customerId="15" productId="148">Kromgruverennet</relatedProduct>
+                <relatedProduct id="567656" dbownerId="44" customerId="15" productId="149">Kunsthåndverksrunde</relatedProduct>
+                <relatedProduct id="567662" dbownerId="44" customerId="15" productId="150">Kvitsanda</relatedProduct>
+                <relatedProduct id="567670" dbownerId="44" customerId="15" productId="151">Ratvolden og Nordgruvfeltet</relatedProduct>
+                <relatedProduct id="567671" dbownerId="44" customerId="15" productId="152">Røros Challenge</relatedProduct>
+                <relatedProduct id="567673" dbownerId="44" customerId="15" productId="153">Røroskuas dag</relatedProduct>
+                <relatedProduct id="567737" dbownerId="44" customerId="15" productId="154">Rørosutstillingen</relatedProduct>
+                <relatedProduct id="567752" dbownerId="44" customerId="15" productId="155">Skiutleie</relatedProduct>
+                <relatedProduct id="567772" dbownerId="44" customerId="15" productId="157">Sparkutleie</relatedProduct>
+                <relatedProduct id="567780" dbownerId="44" customerId="15" productId="159">Kakefest i Kjerkgata</relatedProduct>
+                <relatedProduct id="567788" dbownerId="44" customerId="15" productId="160">Strand og bad</relatedProduct>
+                <relatedProduct id="567793" dbownerId="44" customerId="15" productId="161">Sykkel og vandring</relatedProduct>
+                <relatedProduct id="567825" dbownerId="44" customerId="15" productId="162">Sykkelutleie</relatedProduct>
+                <relatedProduct id="567832" dbownerId="44" customerId="15" productId="163">Taverna Alvdal</relatedProduct>
+                <relatedProduct id="567835" dbownerId="44" customerId="15" productId="164">Taverna Alvdal - leiligheter</relatedProduct>
+                <relatedProduct id="567840" dbownerId="44" customerId="15" productId="166">Tømmerrennene</relatedProduct>
+                <relatedProduct id="567854" dbownerId="44" customerId="15" productId="167">Årstreff for Club Renault Norvege</relatedProduct>
+                <relatedProduct id="569405" dbownerId="44" customerId="15" productId="168">Bygdaliv. Jul i Haltdalen</relatedProduct>
+                <relatedProduct id="569439" dbownerId="44" customerId="15" productId="169">Bygdaliv. Jul i Haltdalen</relatedProduct>
+                <relatedProduct id="569448" dbownerId="44" customerId="15" productId="170">Bygdaliv. Jul i Haltdalen</relatedProduct>
+                <relatedProduct id="569455" dbownerId="44" customerId="15" productId="171">Bygdaliv. Jul i Haltdalen</relatedProduct>
+                <relatedProduct id="569878" dbownerId="44" customerId="15" productId="172">Førjulskonsert med Røros kammerkor</relatedProduct>
+                <relatedProduct id="569924" dbownerId="44" customerId="15" productId="173">N/A</relatedProduct>
+                <relatedProduct id="570627" dbownerId="44" customerId="15" productId="175">Tylldalen bygdetun</relatedProduct>
+                <relatedProduct id="571442" dbownerId="44" customerId="15" productId="176">Røros Sanitetsforening julebasar</relatedProduct>
+                <relatedProduct id="571793" dbownerId="44" customerId="15" productId="178">N/A</relatedProduct>
+                <relatedProduct id="572335" dbownerId="44" customerId="15" productId="179">Sigvart &amp; Karoline i Røros Kirke</relatedProduct>
+                <relatedProduct id="572833" dbownerId="44" customerId="15" productId="180">D3 Hummelfjell - Hytte</relatedProduct>
+                <relatedProduct id="572834" dbownerId="44" customerId="15" productId="181">D4 Hummelfjell - Hytte</relatedProduct>
+                <relatedProduct id="573755" dbownerId="44" customerId="15" productId="182">Julekonsert i Røros kirke</relatedProduct>
+                <relatedProduct id="574513" dbownerId="44" customerId="15" productId="183">Hjertelig velkommen til desemberåpent i Hiort-Engan!</relatedProduct>
+                <relatedProduct id="576375" dbownerId="44" customerId="15" productId="184">Dansegalla på Røros med Anne Nørdsti og Lasse Stefanz</relatedProduct>
+                <relatedProduct id="578251" dbownerId="44" customerId="15" productId="186">Romjulskonsert med Røros Kammerkor</relatedProduct>
+                <relatedProduct id="584568" dbownerId="44" customerId="15" productId="187">Bergstadvandring / byvandring</relatedProduct>
+                <relatedProduct id="584572" dbownerId="44" customerId="15" productId="188">Bergstadvandring / byvandring</relatedProduct>
+                <relatedProduct id="585184" dbownerId="44" customerId="15" productId="189">Jutulhogget</relatedProduct>
+            </relatedProductList>
+            <advertisementList>
+                <advertisement id="1">
+                    <type id="6">Full prod. present. med link 1</type>
+                </advertisement>
+            </advertisementList>
+            <customTypeList>
+                <customType id="16" dbownerId="44">www.rorosinfo.com NY</customType>
+                <customType id="21" dbownerId="44">GJØRE</customType>
+                <customType id="36" dbownerId="44">BARN/FAMILIE</customType>
+            </customTypeList>
+            <customAreaList>
+                <customArea id="1" dbownerId="44">Rørosregionen</customArea>
+            </customAreaList>
+        </product>
+        <product id="42080" dbownerId="95" customerId="129" productId="1" lang="no" created="2002-03-26T14:01:00" createdBy="JGH" modified="2011-06-01T12:49:43" modifiedBy="Tellus Support">
+            <name>Munkstigen</name>
+            <address>
+                <street>Hindrum</street>
+                <postalArea postalCode="7125">Vanvikan</postalArea>
+                <municipality id="1718">Leksvik</municipality>
+                <county id="17">Nord-Trøndelag</county>
+                <country id="NO">Norge</country>
+            </address>
+            <contactInformation>
+                <web>www.munkstigen.no</web>
+            </contactInformation>
+            <geoLocation type="WGS 84">
+                <longitude>10.2098889</longitude>
+                <latitude>63.552748</latitude>
+                <elevation>520</elevation>
+            </geoLocation>
+            <div />
+            <contactList>
+                <contact id="1">
+                    <type id="4">Kontakt</type>
+                    <telephone>49613204/41339518</telephone>
+                    <email>post@hindrumfjordsenter.no</email>
+                </contact>
+            </contactList>
+            <categoryList>
+                <category id="36">
+                    <name>Aktiviteter</name>
+                    <categorySubType1List>
+                        <categorySubType1 id="690">
+                            <name>Sport</name>
+                            <categorySubType2List>
+                                <categorySubType2 id="443">
+                                    <name>Klatring</name>
+                                </categorySubType2>
+                            </categorySubType2List>
+                        </categorySubType1>
+                    </categorySubType1List>
+                </category>
+            </categoryList>
+            <mediaChannelList>
+                <mediaChannel id="38">
+                    <name>IKKE BRUK DENNE 2, kun internt i Tellus</name>
+                </mediaChannel>
+                <mediaChannel id="37">
+                    <name>IKKE BRUK DENNE, TEST TID</name>
+                </mediaChannel>
+                <mediaChannel id="1">
+                    <name>Internett</name>
+                </mediaChannel>
+                <mediaChannel id="2">
+                    <name>Internett lokal</name>
+                </mediaChannel>
+                <mediaChannel id="5">
+                    <name>Lokal</name>
+                </mediaChannel>
+                <mediaChannel id="36">
+                    <name>NAF</name>
+                </mediaChannel>
+            </mediaChannelList>
+            <textList>
+                <text type="HOVED" lang="no" mime="text/plain" modified="2011-06-01T12:46:00" modifiedBy="Tellus Support">Liker du utfordring, kan du prøve deg på Nord-Europas lengste klatresti. Den ligger ved RV 755 til Leksvik, en times kjøring fra Trondheim.
+
+                    Dette er ikke fjellklatring, men en tur i brattere terreng enn du er vant til. Med klatreseler og spesielle klatretau, kan du hekte deg til en wire, som er strukket fra bunnen av fjellet Munken. på den måten kan du trykt bestige fjellet.
+
+                    Utsikten fra toppen av det 518 m høye fjellet over Trondheimsfjorden og Trondheim sentrum, er fantastisk. De sprekeste bruker snaut to timer på turen, mens andre bruker en hel dag på å nyte turen og utsikten fra toppen.(sitat fra turklatrer)
+
+                    Har du lyst på en opplevelse og en utfordring? 
+
+                    Ta kontakt med Hindrum Fjordsenter.
+                </text>
+            </textList>
+            <mediaList>
+                <media id="199" dbownerId="95" mime="image/jpeg" sequence="1">
+                    <name>Leksvik, utsikt</name>
+                    <copyright>
+                        <name>T. Kruken</name>
+                    </copyright>
+                    <thumbnail width="50" height="50" URI="http://media.tellus.no/images/?d=95&amp;p=199&amp;t=3" />
+                    <small width="315" height="210" URI="http://media.tellus.no/images/?d=95&amp;p=199&amp;t=2" />
+                    <large width="315" height="210" URI="http://media.tellus.no/images/?d=95&amp;p=199&amp;t=1" />
+                </media>
+            </mediaList>
+            <advertisementList>
+                <advertisement id="1">
+                    <type id="2">Full prod. present.</type>
+                    <email>dykambassaden@c2i.net</email>
+                </advertisement>
+            </advertisementList>
+        </product>
+        <product id="448458" dbownerId="389" customerId="25" productId="3" lang="no" created="2010-09-15T14:34:18" createdBy="OH" modified="2012-03-15T16:18:59" modifiedBy="Odd Petter Haugseth">
+            <name>Hessjøen</name>
+            <address>
+                <postalArea postalCode="7500">Stjørdal</postalArea>
+                <municipality id="1714">Stjørdal</municipality>
+                <county id="17">Nord-Trøndelag</county>
+                <country id="NO">Norge</country>
+            </address>
+            <contactInformation />
+            <geoLocation type="WGS 84">
+                <longitude>11.024694442</longitude>
+                <latitude>63.495053259</latitude>
+            </geoLocation>
+            <div />
+            <contactList>
+                <contact id="1">
+                    <type id="4">Kontakt</type>
+                    <name>Turistkontoret</name>
+                    <telephone>74 83 45 80</telephone>
+                </contact>
+            </contactList>
+            <categoryList>
+                <category id="36">
+                    <name>Aktiviteter</name>
+                    <categorySubType1List>
+                        <categorySubType1 id="690">
+                            <name>Sport</name>
+                            <categorySubType2List>
+                                <categorySubType2 id="744">
+                                    <name>Langrenn</name>
+                                </categorySubType2>
+                            </categorySubType2List>
+                        </categorySubType1>
+                        <categorySubType1 id="1125">
+                            <name>Sykkel</name>
+                        </categorySubType1>
+                        <categorySubType1 id="2682">
+                            <name>Turer på egenhånd</name>
+                        </categorySubType1>
+                        <categorySubType1 id="965">
+                            <name>Turstier</name>
+                        </categorySubType1>
+                    </categorySubType1List>
+                </category>
+            </categoryList>
+            <mediaChannelList>
+                <mediaChannel id="1">
+                    <name>Internett</name>
+                </mediaChannel>
+                <mediaChannel id="8">
+                    <name>Standard oppføring</name>
+                </mediaChannel>
+            </mediaChannelList>
+            <textList>
+                <text type="HOVED" lang="no" mime="text/plain" modified="2012-03-15T16:17:20" modifiedBy="Odd Petter Haugseth">Hessjøen er nok den meste populære utfluktsplassen for de som bor i den sentrumsnære delen av Stjørdal. Fra P-plassen er det flott sti inn til Hessjøen. Lengde 2,4 km og fint terreng. Stien er bred og tilrettelagt for sykkel, barnevogn og rullestol. Det er flere benker langs stien. Populær badeplass på varme sommerdager. 
+
+                    Det er mulighet for rundløype fra Hessjøen tilbake til P-plassen, totalt 4,8 km. Fra Hessjøen kan en gå videre opp til åpen hytte på Husåsen (1 km, skiltet) og videre over Kvittemsmyrene tilbake til P-plassen. Myrområdene er godt tilrettelagt og fine å gå. Noen tar også sykkelen på denne runden som er på ca. 8 km.
+
+                    Inn til Hessjøen er det godt oppkjørte spor og lysløype om vinteren. Parkering ved Resve mot avgift (kr. 10,-/100,- pr. døgn/år). For spor og vinterinformasjon, se www.kjentmann.no
+                </text>
+                <text type="HOVED_HTML" lang="no" mime="text/html" modified="2012-03-15T16:17:20" modifiedBy="Odd Petter Haugseth">&lt;p&gt;Hessjøen er nok den meste populære utfluktsplassen for de som bor i den sentrumsnære delen av Stjørdal. Fra P-plassen er det flott sti inn til Hessjøen. Lengde 2,4 km og fint terreng. Stien er bred og tilrettelagt for sykkel, barnevogn og rullestol. Det er flere benker langs stien. Populær badeplass på varme sommerdager. &lt;br /&gt;&lt;br /&gt;Det er mulighet for rundløype fra Hessjøen tilbake til P-plassen, totalt 4,8 km. Fra Hessjøen kan en gå videre opp til åpen hytte på Husåsen (1 km, skiltet) og videre over Kvittemsmyrene tilbake til P-plassen. Myrområdene er godt tilrettelagt og fine å gå. Noen tar også sykkelen på denne runden som er på ca. 8 km.&lt;br /&gt;&lt;br /&gt;Inn til Hessjøen er det godt oppkjørte spor og lysløype om vinteren. Parkering ved Resve mot avgift (kr. 10,-/100,- pr. døgn/år). For spor og vinterinformasjon, se &lt;a href="http://www.kjentmann.no"&gt;www.kjentmann.no&lt;/a&gt;&lt;/p&gt;</text>
+                <text type="HOVED" lang="en" mime="text/plain" modified="2012-03-15T16:18:44" modifiedBy="Odd Petter Haugseth">Hessjøen is one of the most popular outdoor areas close to Stjørdal City Centre. You may walk the 2,4 km from the parking lot to Hesssjøen with great ease, as the trail is very well kept. Bikes and push-chairs can also be used on the trail. 
+
+                    Several benches are placed on the trail. Hessjøen is a popular spot to go swimming during summer.
+
+                    From Hessjøen, there is a path to an open cabin at Husåsen (1km).
+
+                    Hessjøen has well marked and prepared cross country skiing trails during winter.
+
+                    Parking at Resveet NOK 10,-
+                </text>
+                <text type="HOVED_HTML" lang="en" mime="text/html" modified="2012-03-15T16:18:44" modifiedBy="Odd Petter Haugseth">&lt;p&gt;Hessjøen is one of the most popular outdoor areas close to Stjørdal City Centre. You may walk the 2,4 km from the parking lot to Hesssjøen with great ease, as the trail is very well kept. Bikes and push-chairs can also be used on the trail. &lt;br /&gt;&lt;br /&gt;Several benches are placed on the trail. Hessjøen is a popular spot to go swimming during summer.&lt;br /&gt;&lt;br /&gt;From Hessjøen, there is a path to an open cabin at Husåsen (1km).&lt;br /&gt;&lt;br /&gt;Hessjøen has well marked and prepared cross country skiing trails during winter.&lt;br /&gt;&lt;br /&gt;Parking at Resveet NOK 10,-&lt;/p&gt;</text>
+            </textList>
+            <facilityCategoryList>
+                <facilityCategory id="5">
+                    <name>Aktiviteter</name>
+                    <facilityList>
+                        <facility id="1061">
+                            <name>fiskemuligheter</name>
+                            <comment />
+                        </facility>
+                    </facilityList>
+                </facilityCategory>
+                <facilityCategory id="103">
+                    <name>Handikap</name>
+                    <facilityList>
+                        <facility id="61">
+                            <name>tilrettelagt for bevegelseshemmede</name>
+                            <comment />
+                        </facility>
+                    </facilityList>
+                </facilityCategory>
+                <facilityCategory id="92">
+                    <name>Natur og terreng</name>
+                    <facilityList>
+                        <facility id="554">
+                            <name>fotturområde</name>
+                            <comment />
+                        </facility>
+                        <facility id="1239">
+                            <name>rasteplass</name>
+                            <comment />
+                        </facility>
+                        <facility id="881">
+                            <name>skogsområde</name>
+                            <comment />
+                        </facility>
+                        <facility id="388">
+                            <name>vann</name>
+                            <comment />
+                        </facility>
+                    </facilityList>
+                </facilityCategory>
+                <facilityCategory id="90">
+                    <name>Vintersport</name>
+                    <facilityList>
+                        <facility id="1127">
+                            <name>langrenn</name>
+                            <comment />
+                        </facility>
+                        <facility id="179">
+                            <name>lysløype</name>
+                            <comment />
+                        </facility>
+                    </facilityList>
+                </facilityCategory>
+            </facilityCategoryList>
+            <relatedProductList>
+                <relatedProduct id="448449" dbownerId="389" customerId="25" productId="2">Hellstranda</relatedProduct>
+                <relatedProduct id="448444" dbownerId="389" customerId="25" productId="1">Storvika badested</relatedProduct>
+                <relatedProduct id="459713" dbownerId="389" customerId="25" productId="21">Skiløyper i Stjørdal</relatedProduct>
+            </relatedProductList>
+            <mediaList>
+                <media id="90" dbownerId="389" mime="image/jpeg" sequence="5">
+                    <name>Hessjøen - Parkering &amp; Betalingskasse</name>
+                    <copyright>
+                        <name>Odd Petter Haugseth</name>
+                    </copyright>
+                    <thumbnail width="172" height="114" URI="http://media.tellus.no/images/?d=389&amp;p=90&amp;t=3" />
+                    <small width="350" height="233" URI="http://media.tellus.no/images/?d=389&amp;p=90&amp;t=2" />
+                    <large width="800" height="533" URI="http://media.tellus.no/images/?d=389&amp;p=90&amp;t=1" />
+                </media>
+                <media id="89" dbownerId="389" mime="image/jpeg" sequence="4">
+                    <name>Hessjøen - Tursti sommer, lysløype vinter</name>
+                    <copyright>
+                        <name>Odd Petter Haugseth</name>
+                    </copyright>
+                    <thumbnail width="172" height="114" URI="http://media.tellus.no/images/?d=389&amp;p=89&amp;t=3" />
+                    <small width="350" height="233" URI="http://media.tellus.no/images/?d=389&amp;p=89&amp;t=2" />
+                    <large width="800" height="533" URI="http://media.tellus.no/images/?d=389&amp;p=89&amp;t=1" />
+                </media>
+                <media id="88" dbownerId="389" mime="image/jpeg" sequence="3">
+                    <name>Hessjøen - Klart for et bad!</name>
+                    <copyright>
+                        <name>Odd Petter Haugseth</name>
+                    </copyright>
+                    <thumbnail width="172" height="114" URI="http://media.tellus.no/images/?d=389&amp;p=88&amp;t=3" />
+                    <small width="350" height="233" URI="http://media.tellus.no/images/?d=389&amp;p=88&amp;t=2" />
+                    <large width="800" height="533" URI="http://media.tellus.no/images/?d=389&amp;p=88&amp;t=1" />
+                </media>
+                <media id="87" dbownerId="389" mime="image/jpeg" sequence="2">
+                    <name>Hessjøen - Løypenettet er godt skiltet</name>
+                    <copyright>
+                        <name>Odd Petter Haugseth</name>
+                    </copyright>
+                    <thumbnail width="172" height="114" URI="http://media.tellus.no/images/?d=389&amp;p=87&amp;t=3" />
+                    <small width="350" height="233" URI="http://media.tellus.no/images/?d=389&amp;p=87&amp;t=2" />
+                    <large width="800" height="533" URI="http://media.tellus.no/images/?d=389&amp;p=87&amp;t=1" />
+                </media>
+                <media id="86" dbownerId="389" mime="image/jpeg" sequence="1">
+                    <name>Hessjøen - Idyllisk område</name>
+                    <copyright>
+                        <name>Odd Petter Haugseth</name>
+                    </copyright>
+                    <thumbnail width="172" height="114" URI="http://media.tellus.no/images/?d=389&amp;p=86&amp;t=3" />
+                    <small width="350" height="233" URI="http://media.tellus.no/images/?d=389&amp;p=86&amp;t=2" />
+                    <large width="800" height="533" URI="http://media.tellus.no/images/?d=389&amp;p=86&amp;t=1" />
+                </media>
+            </mediaList>
+            <transportList>
+                <transport id="1">
+                    <type id="10">Bil</type>
+                    <description>Fra E14, kjør Ringvegen opp til Remyra Grendehus. Til venstre, sving høyre nede i dalen etter 200 m.</description>
+                </transport>
+                <transport id="2">
+                    <type id="2">Buss</type>
+                    <description>Pendel´n fra Stjørdal stasjon eller skolebuss. Se ruter til Nettbuss.</description>
+                </transport>
+            </transportList>
+            <distanceList>
+                <distance id="1">
+                    <name>Stjørdal sentrum</name>
+                    <time>8 min</time>
+                    <physical>6</physical>
+                </distance>
+                <distance id="2">
+                    <name>Trondheim lufthavn Værnes</name>
+                    <time>12 min</time>
+                    <physical>9</physical>
+                </distance>
+                <distance id="3">
+                    <name>Trondheim</name>
+                    <time>45 min</time>
+                    <physical>38</physical>
+                </distance>
+            </distanceList>
+        </product>
+        <product id="263310" dbownerId="353" customerId="20" productId="1" lang="no" created="2008-02-28T14:57:56" createdBy="TH" modified="2011-01-31T15:24:13" modifiedBy="Tore Hansen">
+            <name>Hitradykk - Dykke og Båtopplevelser</name>
+            <address>
+                <street>Akset, Fjellværøy</street>
+                <postalArea postalCode="7242">Knarrlagsund</postalArea>
+                <municipality id="1617">Hitra</municipality>
+                <county id="16">Sør-Trøndelag</county>
+                <country id="NO">Norge</country>
+            </address>
+            <contactInformation>
+                <web>www.hitradykk.no</web>
+            </contactInformation>
+            <geoLocation type="WGS 84">
+                <longitude>9.1187381744</longitude>
+                <latitude>63.650945263</latitude>
+            </geoLocation>
+            <div />
+            <contactList>
+                <contact id="1">
+                    <type id="4">Kontakt</type>
+                    <telephone>47 02 12 60</telephone>
+                    <email>ms-njord@online.no</email>
+                </contact>
+            </contactList>
+            <categoryList>
+                <category id="36">
+                    <name>Aktiviteter</name>
+                    <categorySubType1List>
+                        <categorySubType1 id="417">
+                            <name>Båtturer</name>
+                            <categorySubType2List>
+                                <categorySubType2 id="737">
+                                    <name>Charterturer</name>
+                                </categorySubType2>
+                                <categorySubType2 id="1236">
+                                    <name>Fisketur</name>
+                                </categorySubType2>
+                                <categorySubType2 id="736">
+                                    <name>Sightseeing</name>
+                                </categorySubType2>
+                            </categorySubType2List>
+                        </categorySubType1>
+                        <categorySubType1 id="131">
+                            <name>Fiske</name>
+                            <categorySubType2List>
+                                <categorySubType2 id="1165">
+                                    <name>Fjordfiske</name>
+                                </categorySubType2>
+                                <categorySubType2 id="703">
+                                    <name>Havfiske</name>
+                                </categorySubType2>
+                                <categorySubType2 id="1149">
+                                    <name>Sjøfiske</name>
+                                </categorySubType2>
+                            </categorySubType2List>
+                        </categorySubType1>
+                        <categorySubType1 id="707">
+                            <name>Fjordtur</name>
+                        </categorySubType1>
+                        <categorySubType1 id="974">
+                            <name>Fuglekikking</name>
+                        </categorySubType1>
+                        <categorySubType1 id="1479">
+                            <name>Fyr opplevelser</name>
+                        </categorySubType1>
+                        <categorySubType1 id="404">
+                            <name>Guidet tur</name>
+                        </categorySubType1>
+                        <categorySubType1 id="433">
+                            <name>Safari</name>
+                            <categorySubType2List>
+                                <categorySubType2 id="2380">
+                                    <name>Fjord Safari</name>
+                                </categorySubType2>
+                                <categorySubType2 id="890">
+                                    <name>Fuglesafari</name>
+                                </categorySubType2>
+                                <categorySubType2 id="889">
+                                    <name>Selsafari</name>
+                                </categorySubType2>
+                            </categorySubType2List>
+                        </categorySubType1>
+                        <categorySubType1 id="690">
+                            <name>Sport</name>
+                            <categorySubType2List>
+                                <categorySubType2 id="419">
+                                    <name>Dykking</name>
+                                </categorySubType2>
+                            </categorySubType2List>
+                        </categorySubType1>
+                    </categorySubType1List>
+                </category>
+            </categoryList>
+            <mediaChannelList>
+                <mediaChannel id="1">
+                    <name>Internett</name>
+                </mediaChannel>
+                <mediaChannel id="2">
+                    <name>Internett lokal</name>
+                </mediaChannel>
+                <mediaChannel id="8">
+                    <name>Standard oppføring</name>
+                </mediaChannel>
+            </mediaChannelList>
+            <textList>
+                <text type="HOVED" lang="no" mime="text/plain" modified="2008-11-13T23:07:52" modifiedBy="TH">Hitra og Frøya er velkjent for svært gode dykkerforhold. Vi blir med som dykkeguider og kan samtidig ta dere med på ulike båtturer. Hitradykk drives av Hege og Kenneth Akset og ligger på Akseth på Fjellværøy i Hitra Kommune. Fra Fillan kommunesenter er det ca 20 minutter å kjøre. Hitra er kjent for fantastiske dykkeopplevelser nasjonalt og inyternasjonalt. Dette skyldes rent vann, golfstrømmen, vanntemperaturen og et rikt artsmangfold. Ved vårt dykkesenter på Hitra kan man få være med på å dykke etter kamskjell, blåskjell, hjerteskjell, krabbe med mere. Kanskje finner vi undersjøiske grotter og skipsvtrak også. Trøndelagskysten er full av diverse havets delikatesser. Etter dykket kan vi i fellesskap tilberede havets delikatesser i fjære eller på en holme like ved. Vi har også en katamaran med soveplasser til lengre dykketurer. Vi kan ta dere med ut til dykkeopplevelser i Landskapsvernområdet Froan. Vi har som mål å tilrettelegge for fantastiske opplevelser i et personlig og intimt dykkermiljø. Trenger man overnatting, så samarbeider vi med Hitra Turistservice, Hitra Fjordhotell, Fjellvær Kyst og Bondegårdsferie og Mausundgløtt. Vi har også luftfylling på vårt dykkesenter. Ønsker man å filme dykkeopplevelsen, så gjør vi gjerne det også for dere. </text>
+            </textList>
+            <facilityCategoryList>
+                <facilityCategory id="5">
+                    <name>Aktiviteter</name>
+                    <facilityList>
+                        <facility id="730">
+                            <name>båtturer</name>
+                            <comment />
+                        </facility>
+                        <facility id="904">
+                            <name>fiske i sjø</name>
+                            <comment />
+                        </facility>
+                        <facility id="1061">
+                            <name>fiskemuligheter</name>
+                            <comment />
+                        </facility>
+                        <facility id="813">
+                            <name>fjordfiske</name>
+                            <comment />
+                        </facility>
+                        <facility id="1056">
+                            <name>fuglesafari</name>
+                            <comment />
+                        </facility>
+                        <facility id="747">
+                            <name>guidede turer</name>
+                            <comment />
+                        </facility>
+                        <facility id="274">
+                            <name>havfisketurer</name>
+                            <comment />
+                        </facility>
+                        <facility id="1055">
+                            <name>selsafari</name>
+                            <comment />
+                        </facility>
+                        <facility id="1448">
+                            <name>storbåtfiske</name>
+                            <comment />
+                        </facility>
+                        <facility id="1698">
+                            <name>teambuilding</name>
+                            <comment />
+                        </facility>
+                    </facilityList>
+                </facilityCategory>
+                <facilityCategory id="10">
+                    <name>Annen overnatting</name>
+                    <facilityList>
+                        <facility id="694">
+                            <name>hus</name>
+                            <comment />
+                        </facility>
+                        <facility id="1067">
+                            <name>overnatting</name>
+                            <comment />
+                        </facility>
+                    </facilityList>
+                </facilityCategory>
+                <facilityCategory id="1">
+                    <name>Generelle fasiliteter</name>
+                    <facilityList>
+                        <facility id="1430">
+                            <name>familievennlig</name>
+                            <comment />
+                        </facility>
+                        <facility id="893">
+                            <name>fjordutsikt</name>
+                            <comment />
+                        </facility>
+                        <facility id="1034">
+                            <name>reservasjon mulig</name>
+                            <comment />
+                        </facility>
+                        <facility id="1496">
+                            <name>åpent hele året</name>
+                            <comment />
+                        </facility>
+                    </facilityList>
+                </facilityCategory>
+                <facilityCategory id="49">
+                    <name>Reisepakke</name>
+                    <facilityList>
+                        <facility id="1584">
+                            <name>aktiviteter</name>
+                            <comment />
+                        </facility>
+                        <facility id="1204">
+                            <name>grupper</name>
+                            <comment />
+                        </facility>
+                    </facilityList>
+                </facilityCategory>
+                <facilityCategory id="93">
+                    <name>Sportsaktiviteter</name>
+                    <facilityList>
+                        <facility id="267">
+                            <name>dykking</name>
+                            <comment />
+                        </facility>
+                    </facilityList>
+                </facilityCategory>
+            </facilityCategoryList>
+            <relatedProductList>
+                <relatedProduct id="261982" dbownerId="353" customerId="14" productId="1">Hitra Turistservice</relatedProduct>
+                <relatedProduct id="272021" dbownerId="353" customerId="29" productId="2">Mausundgløtt - Gruppeaktiviteter</relatedProduct>
+            </relatedProductList>
+            <mediaList>
+                <media id="69" dbownerId="353" mime="image/jpeg" sequence="2">
+                    <name>Hitradykk2</name>
+                    <copyright>
+                        <name>Hitradykk</name>
+                    </copyright>
+                    <thumbnail width="172" height="119" URI="http://media.tellus.no/images/?d=353&amp;p=69&amp;t=3" />
+                    <small width="350" height="242" URI="http://media.tellus.no/images/?d=353&amp;p=69&amp;t=2" />
+                    <large width="800" height="553" URI="http://media.tellus.no/images/?d=353&amp;p=69&amp;t=1" />
+                </media>
+                <media id="22" dbownerId="353" mime="image/jpeg" sequence="1">
+                    <name>Hitradykk1</name>
+                    <description>Båt og dykketurer</description>
+                    <descriptionList>
+                        <description lang="no">Båt og dykketurer</description>
+                    </descriptionList>
+                    <copyright>
+                        <name>Hitradykk</name>
+                    </copyright>
+                    <thumbnail width="172" height="111" URI="http://media.tellus.no/images/?d=353&amp;p=22&amp;t=3" />
+                    <small width="350" height="226" URI="http://media.tellus.no/images/?d=353&amp;p=22&amp;t=2" />
+                    <large width="800" height="517" URI="http://media.tellus.no/images/?d=353&amp;p=22&amp;t=1" />
+                </media>
+            </mediaList>
+            <transportList>
+                <transport id="1">
+                    <type id="10">Bil</type>
+                    <description>E6 og E39 fra Trondheim til Orkanger. Så Rv 714 til Hitra</description>
+                </transport>
+            </transportList>
+            <distanceList>
+                <distance id="1">
+                    <name>Trondheim</name>
+                    <time>2 timer</time>
+                    <physical>150</physical>
+                </distance>
+            </distanceList>
+        </product>
+    </productList>
+</TellusSearchResult>

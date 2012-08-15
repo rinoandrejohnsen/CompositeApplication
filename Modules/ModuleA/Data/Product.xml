@@ -1,0 +1,168 @@
+<TellusSearchResult>
+    <metaData requestReceived="2012-08-06T13:49:27.617" responseSent="2012-08-06T13:49:27.633" lang="no" state="real-time">
+        <copyRight>
+            <technology>
+                <name>Powered By tellUs Search ©</name>
+                <description>tellUs Search © is provided by tellUs IT AS.</description>
+                <web>www.tellus.no</web>
+            </technology>
+        </copyRight>
+    </metaData>
+    <product id="267528" dbownerId="44" customerId="142" productId="5" lang="no" created="2008-03-27T10:53:38" createdBy="KK" modified="2012-02-28T08:28:14" modifiedBy="Ståle Berre">
+        <name>Ålen Skisenter</name>
+        <address>
+            <postalArea postalCode="7384">Ålen</postalArea>
+            <municipality id="1644">Holtålen</municipality>
+            <county id="16">Sør-Trøndelag</county>
+            <country id="NO">Norge</country>
+        </address>
+        <contactInformation>
+            <web>www.aalenskisenter.no</web>
+        </contactInformation>
+        <geoLocation type="WGS 84">
+            <longitude>11.302013397</longitude>
+            <latitude>62.837988652</latitude>
+        </geoLocation>
+        <div>
+            <capacity>900</capacity>
+            <yearBuilt>1999</yearBuilt>
+        </div>
+        <contactList>
+            <contact id="1">
+                <type id="4">Kontakt</type>
+                <telephone>419 06 599</telephone>
+                <email>post@aalenskisenter.no</email>
+            </contact>
+        </contactList>
+        <categoryList>
+            <category id="36">
+                <name>Aktiviteter</name>
+                <categorySubType1List>
+                    <categorySubType1 id="690">
+                        <name>Sport</name>
+                        <categorySubType2List>
+                            <categorySubType2 id="742">
+                                <name>Alpint</name>
+                            </categorySubType2>
+                        </categorySubType2List>
+                    </categorySubType1>
+                </categorySubType1List>
+            </category>
+        </categoryList>
+        <mediaChannelList>
+            <mediaChannel id="1">
+                <name>Internett</name>
+            </mediaChannel>
+            <mediaChannel id="2">
+                <name>Internett lokal</name>
+            </mediaChannel>
+            <mediaChannel id="32">
+                <name>Regional</name>
+            </mediaChannel>
+            <mediaChannel id="8">
+                <name>Standard oppføring</name>
+            </mediaChannel>
+        </mediaChannelList>
+        <textList>
+            <text type="HOVED" lang="no" mime="text/plain" modified="2009-01-15T21:21:38" modifiedBy="BB">Ålen skisenter er et flott alpinanlegg med stor variasjon og utfordringer for de fleste. Våre nedfarter starter på høyfjellet og går ned gjennom skogen og ender opp nær sentrum i fjellbygda.</text>
+            <text type="HOVED" lang="en" mime="text/plain" modified="2010-06-19T15:13:42" modifiedBy="BB">5 slopes, free children’s ski tow, terrain park and fully licensed café and warming room/café. Ski and toboggan hire. Ski school. The slopes start in the high mountain and end up near the mountain village’s centre. Open at weekends during the holiday season and on public holidays, as well as alternate Wednesdays. 32 km from Røros.
+                Ålen. T: +47 72 41 55 55. www.aalenskisenter.no
+            </text>
+        </textList>
+        <relatedProductList>
+            <relatedProduct id="24690" dbownerId="44" customerId="142" productId="4">Stentrøstuggu</relatedProduct>
+            <relatedProduct id="320004" dbownerId="44" customerId="142" productId="6">Ålen Skisenter Leiligheter</relatedProduct>
+            <relatedProduct id="501141" dbownerId="44" customerId="142" productId="11">Ålen alpinhytter/caravan</relatedProduct>
+        </relatedProductList>
+        <mediaList>
+            <media id="1082" dbownerId="44" mime="image/jpeg" sequence="3">
+                <name>Ålen skisenter stentrøstuggu</name>
+                <description>Ålen skisenter</description>
+                <descriptionList>
+                    <description lang="no">Ålen skisenter</description>
+                </descriptionList>
+                <copyright>
+                    <name>Ålen skisenter</name>
+                </copyright>
+                <thumbnail width="172" height="96" URI="http://media.tellus.no/images/?d=44&amp;p=1082&amp;t=3" />
+                <small width="350" height="196" URI="http://media.tellus.no/images/?d=44&amp;p=1082&amp;t=2" />
+                <large width="800" height="450" URI="http://media.tellus.no/images/?d=44&amp;p=1082&amp;t=1" />
+            </media>
+            <media id="1081" dbownerId="44" mime="image/jpeg" sequence="2">
+                <name>Ålen skisenter fra bakken</name>
+                <description>Ålen Skisenter</description>
+                <descriptionList>
+                    <description lang="no">Ålen Skisenter</description>
+                    <description lang="en">Ålen skicenter</description>
+                </descriptionList>
+                <copyright>
+                    <name>Ålen Skisenter foto</name>
+                </copyright>
+                <thumbnail width="172" height="115" URI="http://media.tellus.no/images/?d=44&amp;p=1081&amp;t=3" />
+                <small width="350" height="234" URI="http://media.tellus.no/images/?d=44&amp;p=1081&amp;t=2" />
+                <large width="800" height="535" URI="http://media.tellus.no/images/?d=44&amp;p=1081&amp;t=1" />
+            </media>
+            <media id="1080" dbownerId="44" mime="image/jpeg" sequence="1">
+                <name>Ålen skisenter</name>
+                <description>Ålen skisenter</description>
+                <descriptionList>
+                    <description lang="no">Ålen skisenter</description>
+                    <description lang="en">Ålen skicenter</description>
+                </descriptionList>
+                <link>www.aalenskisenter.no</link>
+                <copyright>
+                    <name>Ålen skisenter</name>
+                </copyright>
+                <thumbnail width="172" height="115" URI="http://media.tellus.no/images/?d=44&amp;p=1080&amp;t=3" />
+                <small width="350" height="234" URI="http://media.tellus.no/images/?d=44&amp;p=1080&amp;t=2" />
+                <large width="800" height="535" URI="http://media.tellus.no/images/?d=44&amp;p=1080&amp;t=1" />
+            </media>
+        </mediaList>
+        <scheduleList>
+            <schedule id="1">
+                <type id="2">Åpningstid</type>
+                <fromDate date="2010-11-06">06.11.2010</fromDate>
+                <toDate date="2011-05-15">15.05.2011</toDate>
+                <fromTime time="10:00:00">10:00</fromTime>
+                <toTime time="16:00:00">16:00</toTime>
+                <daysOfWeek>
+                    <saturday>Lørdag</saturday>
+                    <sunday>Søndag</sunday>
+                </daysOfWeek>
+                <location dbownerId="44" customerId="142">Ålen Skisenter</location>
+            </schedule>
+        </scheduleList>
+        <transportList>
+            <transport id="1">
+                <type id="2">Buss</type>
+                <description>Gauldal Billag rutebuss</description>
+            </transport>
+        </transportList>
+        <distanceList>
+            <distance id="1">
+                <name>Røros</name>
+                <time>25</time>
+                <physical>32</physical>
+            </distance>
+        </distanceList>
+        <advertisementList>
+            <advertisement id="1">
+                <type id="6">Full prod. present. med link 1</type>
+                <URI>www.aalenskisenter.no</URI>
+            </advertisement>
+        </advertisementList>
+        <customTypeList>
+            <customType id="16" dbownerId="44">www.rorosinfo.com NY</customType>
+            <customType id="21" dbownerId="44">GJØRE</customType>
+            <customType id="40" dbownerId="44">VINTEROPPLEVELSER</customType>
+            <customType id="79" dbownerId="44">Alpint</customType>
+            <customType id="124" dbownerId="44">Røros APP</customType>
+            <customType id="134" dbownerId="44">Gjøre</customType>
+            <customType id="161" dbownerId="44">Aktiviteter</customType>
+            <customType id="196" dbownerId="44">Ski</customType>
+        </customTypeList>
+        <customAreaList>
+            <customArea id="1" dbownerId="44">Rørosregionen</customArea>
+        </customAreaList>
+    </product>
+</TellusSearchResult>
